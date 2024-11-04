@@ -1,0 +1,88 @@
+@import "https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap";
+html {
+  width: 1280px;
+  margin: auto;
+}
+
+header {
+  background: #0009;
+  align-items: center;
+  padding: 1rem;
+  font-family: Roboto;
+  font-size: 1.25rem;
+  display: flex;
+}
+
+header nav {
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  display: flex;
+}
+
+header nav .logo {
+  height: 50px;
+  margin-right: 1.5rem;
+}
+
+header nav ul {
+  justify-content: space-between;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+header nav ul li {
+  margin-left: 1.5rem;
+}
+
+header nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header nav ul li a:hover {
+  color: #e6e8ea;
+}
+
+.hero {
+  color: #fff;
+  text-align: center;
+  background: linear-gradient(#0000004d, #0000004d), url("index_background_v2.33e0a3a1.jpg") center / cover no-repeat;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: Roboto;
+  display: flex;
+}
+
+.hero .hero-content {
+  max-width: 600px;
+}
+
+.hero .hero-content h1 {
+  font-size: 3rem;
+}
+
+.hero .hero-content p {
+  color: #fff;
+  font-family: Roboto;
+  font-size: 1.5rem;
+}
+
+@media (width <= 768px) {
+  header nav ul {
+    flex-direction: column;
+    align-items: flex-end;
+  }
+
+  .hero-content h1 {
+    font-size: 2rem;
+  }
+
+  .hero-content p {
+    font-size: 1rem;
+  }
+}
+/*# sourceMappingURL=index.d71aca1e.css.map */
