@@ -8,7 +8,8 @@ $font-type: 'Roboto';
 
 //Estilos para documento html
 html{
-  width: 1280px;
+  max-width: 1280px;
+  width: 100vw;
   margin: auto;  
 }
 
@@ -25,7 +26,7 @@ header {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      width: 100%;
+      width: 100vw;
       
       .logo {
         height: 50px; // Ajusta el tamaño del logo según sea necesario
@@ -107,7 +108,15 @@ footer {
   
 // Estilos para diseño responsive
 @media (max-width: 768px) {
-    header {
+  html{
+    width: 100vw;
+    margin: auto;  
+  }  
+  
+  header {
+      nav {
+        width: 90vw;
+      }
       nav ul {
         flex-direction: column;
         align-items: flex-end;
@@ -115,12 +124,29 @@ footer {
     }
   
     .hero-content {
+      width: 90vw;
+      display: flex;
+      flex-direction: column;
+
       h1 {
         font-size: 2rem;
       }
   
       p {
         font-size: 1rem;
+      }
+    }
+
+    footer{
+      width: 100%;
+      background: rgba(0, 0, 0, 0.6);
+      display: flex;
+      flex-direction: column;
+      height: 100px;
+      padding: 0;
+      
+      p {
+        font-size: 0.9rem;
       }
     }
 }
