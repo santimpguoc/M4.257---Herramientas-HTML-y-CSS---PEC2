@@ -65,6 +65,8 @@ header {
     color: white;
     text-align: center;
     font-family: $font-type;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
   
     .hero-content {
       max-width: 600px;
@@ -79,6 +81,28 @@ header {
         font-family: $font-type;
       }
     }
+}
+
+// Estilos de el pie de página
+footer {
+  display: flex;
+  background: rgba(0, 0, 0, 0.6);
+  font-family: $font-type;
+  font-size: 1rem;
+  color: white;
+  padding: 0rem 1rem;
+  justify-content: space-between;
+  align-items: center;
+  height: 18vh;
+
+  p {
+    margin: 0.5rem 0 0 0;
+  }
+
+  img {
+    max-width: 250px;
+    margin: 0 0 0 0;
+  }
 }
   
 // Estilos para diseño responsive
