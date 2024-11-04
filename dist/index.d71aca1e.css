@@ -91,7 +91,7 @@ footer p {
 
 footer img {
   max-width: 250px;
-  margin: 0;
+  margin: .5rem 0 0;
 }
 
 @media (width <= 768px) {
