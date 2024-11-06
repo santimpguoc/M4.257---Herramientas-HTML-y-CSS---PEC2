@@ -6,34 +6,12 @@ html(lang="es")
     title Almonaster la Real
     link(rel="stylesheet" href="./assets/css/styles.scss")
   body
-    header
-        nav.standar
-            div#logo.nav
-                a(href="index.pug") 
-                img(src="./assets/images/Logo_Almonaster-A.png" alt="Logo de Almonaster la Real" class="logo")
-            div#menu.nav
-                ul
-                    li
-                        a(href="#") Categoría
-                    li
-                        a(href="#") Detalle
-                    li
-                        a(href="#") Presentación
-                    li
-                        a(href="#") Enlaces
-        
+    include header.pug
 
-    section.hero
-      .hero-content
-        h1 Bienvenidos a Almonaster la Real
-        p Uno de los pueblos más bonitos de España y situado en la Sierra de Huelva, en pleno Parque Natural de Aracena y Picos de Aroche.
+    main
+        section.index-main-section
+            .index-content
+                h1 Bienvenidos a Almonaster la Real
+                p Uno de los pueblos más bonitos de España y situado en la Sierra de Huelva, en pleno Parque Natural de Aracena y Picos de Aroche.
 
-    footer
-        div#footer-text.footer   
-            p Santiago Martín-Palomo García
-            p Máster Universitario en Desarrollo de Sitios y Aplicaciones Web 
-            p M4.257 - Herramientas HTML y CSS 
-        
-        div#footer-logo.footer 
-            a(href="index.pug") 
-            img(src="./assets/images/LogoUOC_bn.png" alt="Logo UOC" class="logo")
+    include footer.pug
