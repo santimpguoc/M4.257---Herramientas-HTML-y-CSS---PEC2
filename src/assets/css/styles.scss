@@ -22,6 +22,7 @@ header {
     align-items: center;
     font-family: $font-type;
     font-size: 1.25rem;
+    padding: 0.5rem 1rem 0.5rem 1rem;
   
     nav {
       display: flex;
@@ -57,56 +58,78 @@ header {
   }
 
 // Estilos de la sección principal con imagen de fondo
-.index-main-section, .categoria-main-section{
-    background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.30)), 
+.index-main-section, .categoria-main-section, .detalle-main-section, .enlaces-main-section{
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.30)), 
                 url('../images/index_background_v2.jpg') no-repeat center center/cover;
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    text-align: center;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-align: center;
     
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
   
-    .index-content {
-      max-width: 600px;
+  .index-content {
+    max-width: 600px;
   
-      h1 {
-        font-size: 3rem;
-      }
-  
-      p {
-        font-size: 1.5rem;
-        color:white;
-        font-family: $font-type;
-      }
+    h1 {
+      font-size: 3rem;
     }
 
-    .categoria-content {
-      max-width: 1080px;
-      text-align: left;
-
-      background: rgba(255, 255, 255, 0.75);
-      border: solid 2px  rgba(0, 0, 0, 0.75);
-      padding: 1rem;
-      margin: 1rem;
-      color: rgba(0, 0, 0, 0.75);
-  
-      h1 {
-        font-size: 2rem;
-      }
-  
-      p {
-        font-size: 1.25rem;
-        font-family: $font-type;
-        line-height: 1.75rem;
-      }
-      span {
-        font-weight: bold;
-      }
+    h2 {
+      font-size: 2rem;
     }
+  
+    p {
+      font-size: 1.25rem;
+      color:white;
+      font-family: $font-type;
+    }
+  }
+
+  .categoria-content, .detalle-content, .enlaces-content{
+    max-width: 1080px;
+    text-align: left;
+
+    background: rgba(255, 255, 255, 0.75);
+    border: solid 2px  rgba(0, 0, 0, 0.75);
+    padding: 1rem;
+    margin: 1rem;
+    color: rgba(0, 0, 0, 0.75);
+  
+    h1 {
+      font-size: 2rem;
+    }
+
+    h2 {
+      font-size: 1.5rem;
+    }
+  
+    p, li{
+      font-size: 1.15rem;
+      font-family: $font-type;
+      line-height: 1.75rem;
+    }
+    span {
+      font-weight: bold;
+    }
+
+    .nota {
+      font-size: 1rem;
+      font-weight: normal;
+      line-height: normal;
+    }
+
+    figure{
+      text-align: center;
+    }
+    img{
+      width: 75%;
+      max-width: 1024px;
+    }
+  }
 }
 
 // Estilos de el pie de página
@@ -139,40 +162,50 @@ footer {
   }  
   
   header {
-      nav {
-        width: 90vw;
-      }
-      nav ul {
-        flex-direction: column;
-        align-items: flex-end;
-      }
-    }
-  
-    .hero-content {
+    nav {
       width: 90vw;
-      display: flex;
+    }
+    nav ul {
       flex-direction: column;
-
-      h1 {
-        font-size: 2rem;
-      }
+      align-items: flex-end;
+    }
+  }
   
-      p {
-        font-size: 1rem;
-      }
+  .index-content, .categoria-content, .detalle-content, .enlaces-content {
+    width: 90vw;
+    display: flex;
+    flex-direction: column;
+
+    h1 {
+      font-size: 1.5rem;
+    }
+  
+    p {
+       font-size: 1rem;
     }
 
-    footer{
-      width: 100%;
-      background: rgba(0, 0, 0, 0.6);
-      display: flex;
-      flex-direction: column;
-      height: 100px;
-      padding: 0;
+    figure {
+      margin: 0 0 1rem 0;
+      padding: 0rem;
       
-      p {
-        font-size: 0.9rem;
-      }
     }
+    img {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
+  footer{
+    width: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    height: 100px;
+    padding: 0;
+      
+    p {
+        font-size: 0.9rem;
+    }
+  }
 }
   
