@@ -1,4 +1,4 @@
-9971
+9973
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\supports-color\package.json133751935828884768 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\abortcontroller-polyfill133751935835272252 1
 116C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\utils\clone.js133751935836047994 0
@@ -8,7 +8,7 @@
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-load\HISTORY.md133751935828806510 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_await_value133751935836503712 1
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\plugins\removeViewBox.js133751935844301516 0
-40C:\Users\Santi\Project\UOC\PEC\PEC1\dist133755854410456942 1
+40C:\Users\Santi\Project\UOC\PEC\PEC1\dist133756125941140624 1
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.bin\node-gyp-build-optional-packages133751935857150597 0
 113C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-firefox-class-in-computed-class-key\LICENSE133751935830075281 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\node_modules\css-tree\lib\syntax\node\AnPlusB.js133751935845948209 0
@@ -219,7 +219,7 @@
 94C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\bundler-default\lib\DefaultBundler.js133751935827690736 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-symbols\.nycrc133751935825271581 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\node_modules\semver\functions\diff.js133751935834550391 0
-51C:\Users\Santi\Project\UOC\PEC\PEC1\src\enlaces.pug133755841613213054 0
+51C:\Users\Santi\Project\UOC\PEC\PEC1\src\enlaces.pug133756125939899349 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\esm\_using.js133751935850069053 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\EC.js133751935849539743 0
 60C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@jridgewell133751935804751377 1
@@ -272,7 +272,7 @@
 61C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\browserslist133751935835272252 1
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\package.json133751935831848396 0
 111C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\svgo\tools.js133751935843949918 0
-53C:\Users\Santi\Project\UOC\PEC\PEC1\src\assets\images133755785881560841 1
+53C:\Users\Santi\Project\UOC\PEC\PEC1\src\assets\images133756125354493713 1
 104C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script_Extensions\Toto.js133751935850462533 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-error\lib\index.js.map133751935829269366 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\src\assets\images\fuente_de_concejo.jpg133755785881872074 0
@@ -9957,7 +9957,6 @@
 91C:\Users\Santi\Project\UOC\PEC\PEC1\dist\iglesia-san-martin-almonaster-la-real.b6fca297.jpg133755854409271712 0
 55C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.html133755854409281735 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\dist\interior-mequita-de-almonaster-la-real.85970441.jpg133755854409407478 0
-53C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.html133755854409442506 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v3.e979e77a.jpg133755854409502819 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.57438858.js.map133755854409565002 0
 62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.a30eaee8.js133755854409892415 0
@@ -9970,3 +9969,6 @@
 70C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1234.9b7ca717.js133755854410167351 0
 59C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.d71aca1e.css133755854410209223 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1812.afd160c6.js.map133755854410244392 0
+95C:\Users\Santi\Project\UOC\PEC\PEC1\src\assets\images\plaza-constitucion-almonaster-la-real.jpg133756124930550181 0
+80C:\Users\Santi\Project\UOC\PEC\PEC1\src\assets\images\Almonaster-la-real-1-1.jpg133756125355224296 0
+53C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.html133756125941130788 0
