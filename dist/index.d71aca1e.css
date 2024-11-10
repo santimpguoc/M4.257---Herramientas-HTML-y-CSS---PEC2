@@ -61,7 +61,7 @@ header nav ul li a:hover {
 }
 
 .index-main-section .index-content, .categoria-main-section .index-content, .detalle-main-section .index-content, .enlaces-main-section .index-content, .presentacion-main-section .index-content {
-  max-width: 600px;
+  max-width: 980px;
 }
 
 .index-main-section .index-content h1, .categoria-main-section .index-content h1, .detalle-main-section .index-content h1, .enlaces-main-section .index-content h1, .presentacion-main-section .index-content h1 {
@@ -134,6 +134,55 @@ header nav ul li a:hover {
 .index-main-section .presentacion-content-mis_datos .presentacion-content-mis_datos-imagen img, .categoria-main-section .presentacion-content-mis_datos .presentacion-content-mis_datos-imagen img, .detalle-main-section .presentacion-content-mis_datos .presentacion-content-mis_datos-imagen img, .enlaces-main-section .presentacion-content-mis_datos .presentacion-content-mis_datos-imagen img, .presentacion-main-section .presentacion-content-mis_datos .presentacion-content-mis_datos-imagen img {
   width: 70%;
   max-width: 640px;
+}
+
+.index-main-section .index-carrusel, .categoria-main-section .index-carrusel, .detalle-main-section .index-carrusel, .enlaces-main-section .index-carrusel, .presentacion-main-section .index-carrusel {
+  background: #ffffffbf;
+  border: 2px solid #000000bf;
+  width: 100%;
+  margin: 0 0 1rem;
+  padding: 1rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.index-main-section .carrusel, .categoria-main-section .carrusel, .detalle-main-section .carrusel, .enlaces-main-section .carrusel, .presentacion-main-section .carrusel {
+  transition: transform .5s ease-in-out;
+  display: flex;
+}
+
+.index-main-section .carrusel img, .categoria-main-section .carrusel img, .detalle-main-section .carrusel img, .enlaces-main-section .carrusel img, .presentacion-main-section .carrusel img {
+  width: 100%;
+  max-width: 980px;
+  height: auto;
+  display: none;
+}
+
+.index-main-section .carrusel img.active, .categoria-main-section .carrusel img.active, .detalle-main-section .carrusel img.active, .enlaces-main-section .carrusel img.active, .presentacion-main-section .carrusel img.active {
+  display: block;
+}
+
+.index-main-section button, .categoria-main-section button, .detalle-main-section button, .enlaces-main-section button, .presentacion-main-section button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #00000080;
+  border: none;
+  padding: 10px;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.index-main-section button.prev, .categoria-main-section button.prev, .detalle-main-section button.prev, .enlaces-main-section button.prev, .presentacion-main-section button.prev {
+  left: 10px;
+}
+
+.index-main-section button.next, .categoria-main-section button.next, .detalle-main-section button.next, .enlaces-main-section button.next, .presentacion-main-section button.next {
+  right: 10px;
+}
+
+.index-main-section button:hover, .categoria-main-section button:hover, .detalle-main-section button:hover, .enlaces-main-section button:hover, .presentacion-main-section button:hover {
+  background-color: #000c;
 }
 
 footer {
