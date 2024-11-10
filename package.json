@@ -1,10 +1,12 @@
 {
   "name": "pec1",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.pug",
-    "build": "parcel build ssrc/index.pug",
+    "build:parcel": "parcel build src/index.pug",
+    "build:pug": "pug views -o dist",
+    "build": "npm run build:parcel && npm run build:pug",
+    "deploy": "gh-pages -d dist --add",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -16,6 +18,7 @@
     "@parcel/transformer-pug": "^2.12.0",
     "@parcel/transformer-sass": "^2.12.0",
     "autoprefixer": "^10.4.20",
+    "gh-pages": "^6.2.0",
     "parcel": "^2.12.0",
     "postcss": "^8.4.47",
     "sass": "^1.80.3"
