@@ -2,10 +2,10 @@
   "name": "pec1",
   "version": "1.0.0",
   "scripts": {
-    "dev": "parcel src/*.pug",
-    "build:parcel": "parcel build \"src/**/*.pug\" --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist",
+    "dev": "parcel src/*.pug --open --no-cache",
+    "build:parcel": "parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist",
     "build:pug": "npx pug src -o dist",
-    "build:sass": "sass src/styles.scss dist/styles.css",
+    "build:sass": "sass --update src/styles.scss dist/styles.css",
     "build": "npm run build:parcel && npm run build:pug && npm run build:sass",
     "deploy": "gh-pages -d dist --add",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,7 +23,7 @@
     "parcel": "^2.12.0",
     "postcss": "^8.4.47",
     "pug-cli": "^1.0.0-alpha6",
-    "sass": "^1.80.3"
+    "sass": "^1.80.6"
   },
   "dependencies": {
     "pug": "^3.0.3"
