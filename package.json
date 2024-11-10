@@ -5,7 +5,7 @@
     "dev": "parcel src/*.pug --open --no-cache",
     "build:parcel": "parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist",
     "build:pug": "npx pug src -o dist",
-    "build:sass": "sass --update src/styles.scss dist/styles.css",
+    "build:sass": "parcel build src/styles.scss --dist-dir dist",
     "build": "npm run build:parcel && npm run build:pug && npm run build:sass",
     "deploy": "gh-pages -d dist --add",
     "test": "echo \"Error: no test specified\" && exit 1"
