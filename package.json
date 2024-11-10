@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel src/index.pug",
-    "build:parcel": "parcel build src/index.pug --public-url ./ --dist-dir dist",
+    "build:parcel": "parcel build src/index.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist",
     "build:pug": "npx pug src -o dist",
     "build:sass": "sass src/styles.scss dist/styles.css",
     "build": "npm run build:parcel && npm run build:pug && npm run build:sass",
