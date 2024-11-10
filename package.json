@@ -5,7 +5,8 @@
     "dev": "parcel src/index.pug",
     "build:parcel": "parcel build src/index.pug",
     "build:pug": "pug views -o dist",
-    "build": "npm run build:parcel && npm run build:pug",
+    "build:sass": "sass src/assets/css/styles.scss src/assets/css/styles.css",
+    "build": "npm run build:parcel && npm run build:pug && run build:sass",
     "deploy": "gh-pages -d dist --add",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
