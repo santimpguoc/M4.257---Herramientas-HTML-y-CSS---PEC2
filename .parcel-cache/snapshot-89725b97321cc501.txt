@@ -351,7 +351,7 @@
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\fn\array\copy-within.js133757296735261287 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\srcset\package.json133751935827273250 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\BI.js133751935842349321 0
-49C:\Users\Santi\Project\UOC\PEC\PEC1\src\index.pug133757447904902868 0
+49C:\Users\Santi\Project\UOC\PEC\PEC1\src\index.pug133757448506629809 0
 184C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\source-map\lib\source-map-consumer.js133757239747088618 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\css-read-only-write.js133751935848184785 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\universalify\index.js133757162203594324 0
@@ -17922,7 +17922,7 @@
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-class-properties\LICENSE133751935828692877 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-class-properties\README.md133751935830075281 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\lib133751935834950972 1
-138C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git133757446923136350 1
+138C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git133757448549620023 1
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\README.md133751935830075281 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\lib\annex-B_3_3.js.map133751935831848396 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\lib\index.js133751935832604055 0
