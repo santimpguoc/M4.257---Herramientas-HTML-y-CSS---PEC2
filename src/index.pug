@@ -6,21 +6,8 @@ html(lang="es")
     title Almonaster la Real
     link(rel="stylesheet" href="styles.scss")
   body
-    //include header.pug
-    header
-    nav.standar
-        div#logo.nav
-            a(href="index.pug") 
-                img(src="../images/Logo_Almonaster-A.png" alt="Logo de Almonaster la Real" class="logo")
-        div#menu.nav
-            ul
-                li
-                    a(href="presentacion.pug") Presentación
-                li
-                    a(href="categoria.pug") Categoría
-                li
-                    a(href="enlaces.pug") Enlaces
-
+    include header.pug
+    
     main
         section.index-main-section
             .index-content
