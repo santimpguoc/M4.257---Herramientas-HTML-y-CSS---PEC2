@@ -597,7 +597,7 @@
 190C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@parcel\package-manager\node_modules\semver133757239699638862 1
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\fn\array\copy-within.js133757296735261287 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\srcset\package.json133751935827273250 0
-49C:\Users\Santi\Project\UOC\PEC\PEC1\src\index.pug133757447904902868 0
+49C:\Users\Santi\Project\UOC\PEC\PEC1\src\index.pug133757448506629809 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\BI.js133751935842349321 0
 184C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\source-map\lib\source-map-consumer.js133757239747088618 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\css-read-only-write.js133751935848184785 0
