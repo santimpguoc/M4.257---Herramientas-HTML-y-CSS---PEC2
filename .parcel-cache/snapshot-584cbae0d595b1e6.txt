@@ -2336,7 +2336,7 @@
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\_regexp-exec.js133757296733677299 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\utility-types\dist\mapped-types.js.map133751935834072927 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\with\lib\index.js133751935829269366 0
-58C:\Users\Santi\Project\UOC\PEC\PEC1\dist\presentacion.html133757514849280382 0
+58C:\Users\Santi\Project\UOC\PEC\PEC1\dist\presentacion.html133757515236029158 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-lexer\index.d.ts133751935831410684 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\methodOf.js133757296738766235 0
 170C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\lmdb\dist\index.cjs.map133757239740543113 0
@@ -7390,7 +7390,7 @@
 168C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\cjs\compress.cjs133757239733579417 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\random.js133757296739683035 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-svg\node_modules\semver\classes\index.js133751935836263803 0
-52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\footer.html133757514849063665 0
+52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\footer.html133757515235809309 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\README.md133757296742524897 0
 180C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@parcel\core\test\fixtures\config133757239697021559 1
 79C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\esm\_using_ctx.js133751935850069053 0
@@ -15717,7 +15717,7 @@
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-modules-commonjs\lib\hooks.js133751935832054659 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\semver\bin\semver.js133751935839684333 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@nodelib\fs.stat\out\providers\async.js133757162203129413 0
-52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\header.html133757514849103637 0
+52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\header.html133757515235852471 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133751935824360432 0
 162C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\hasown\index.js133757239737351477 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\.bin\semver133751935857150597 0
@@ -16630,7 +16630,7 @@
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\classCheckPrivateStaticAccess.js133751935843803654 0
 159C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\resolve-from133757239745608746 1
 125C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133751935844949467 0
-51C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.html133757514849194660 0
+51C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.html133757515235963959 0
 125C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\walker.js133751935846070795 0
 128C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\font-face.js133751935840882786 0
 127C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\supports.js133751935845663597 0
@@ -20301,7 +20301,7 @@
 198C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\node_modules\css-tree\lib\lexer\match-graph.js133757239734847615 0
 193C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\node_modules\css-tree\lib\lexer\search.js133757239734867630 0
 196C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\node_modules\css-tree\lib\lexer\structure.js133757239734867630 0
-53C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.html133757514849023640 0
+53C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.html133757515235768925 0
 192C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\node_modules\css-tree\lib\lexer\trace.js133757239734877640 0
 200C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\node_modules\css-tree\lib\generator\sourceMap.js133757239734775463 0
 203C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\csso\node_modules\css-tree\lib\generator\token-before.js133757239734800634 0
@@ -22060,7 +22060,7 @@
 193C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@swc\helpers\cjs\_class_private_field_init.cjs133757239723745990 0
 198C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@parcel\transformer-svg\node_modules\semver\classes133757239718162564 1
 192C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@swc\helpers\cjs\_class_private_field_set.cjs133757239723755990 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_siglo_IX.html133757514848868019 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_siglo_IX.html133757515235570212 0
 195C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@swc\helpers\cjs\_class_private_field_update.cjs133757239723755990 0
 193C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@swc\helpers\cjs\_class_private_method_get.cjs133757239723771044 0
 194C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\node_modules\@swc\helpers\cjs\_class_private_method_init.cjs133757239723771044 0
@@ -25236,9 +25236,9 @@
 84C:\Users\Santi\Project\UOC\PEC\PEC1\images\plaza-constitucion-almonaster-la-real.jpg133757075925117496 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Almonaster-la-real-1-1.b7686978.jpg133757514829952430 0
 63C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.e483c4ed.css133757514832989284 0
-55C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.html133757514848500694 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1234.html133757514848635482 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1812.html133757514848751692 0
+55C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.html133757515235151219 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1234.html133757515235343261 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1812.html133757515235453736 0
 71C:\Users\Santi\Project\UOC\PEC\PEC1\dist\fuente_de_concejo.ae6ae22e.jpg133757514829965436 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v1.df27f429.jpg133757514829965436 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\dist\LogoUOC_bn.53db16dd.png133757514829952430 0
