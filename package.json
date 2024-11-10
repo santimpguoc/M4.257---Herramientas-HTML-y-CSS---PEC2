@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "parcel src/index.pug",
-    "build:parcel": "parcel build src/index.pug",
+    "build:parcel": "parcel build src/index.pug --public.url ./",
     "build:pug": "pug src -o dist",
     "build:sass": "sass src/assets/css/styles.scss dist/styles.css",
     "build": "npm run build:parcel && npm run build:pug && run build:sass",
