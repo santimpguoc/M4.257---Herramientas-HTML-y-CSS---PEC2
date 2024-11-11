@@ -16,22 +16,21 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '18.x'
+          node-version: '16'
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install -g sass
 
-      - name: Install Pug CLI
-        run: npm install -g pug-cli
+      - name: Compile SCSS
+        run: npx sass src/styles.scss dist/styles.css
 
       - name: Build project
         run: npm run build
 
-      - name: Build Pug Files
-        run: npm run build:pug
-
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
