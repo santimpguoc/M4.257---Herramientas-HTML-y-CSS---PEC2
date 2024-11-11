@@ -30,9 +30,6 @@ jobs:
       - name: Build Pug Files
         run: npm run build:pug
 
-      - name: Fix permissions
-        run: chmod +x ./node_modules/.bin/pug
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

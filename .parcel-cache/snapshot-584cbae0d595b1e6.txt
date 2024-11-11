@@ -1,4 +1,4 @@
-15242
+15268
 51C:\Users\Santi\Project\UOC\PEC\PEC1\src\enlaces.pug133757432391275319 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\node_modules\semver\functions\diff.js133751935834550391 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-symbols\.nycrc133751935825271581 0
@@ -36,7 +36,7 @@
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\array\shift.js133757296733654296 0
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\trim-repeated\index.js133757162203705023 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\_object-gopn.js133757296733155574 0
-40C:\Users\Santi\Project\UOC\PEC\PEC1\dist133757576221200752 1
+40C:\Users\Santi\Project\UOC\PEC\PEC1\dist133757578103335633 1
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.bin\node-gyp-build-optional-packages133751935857150597 0
 113C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-firefox-class-in-computed-class-key\LICENSE133751935830075281 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\takeWhile.js133757296740842705 0
@@ -57,7 +57,7 @@
 55C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache133757239613638489 1
 42C:\Users\Santi\Project\UOC\PEC\PEC1\images133757077701528471 1
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\iframe-srcdoc.js133751935850868120 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\21\aa2188382082bb8d4274cee854b57149b3c419133757569548028902 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\21\aa2188382082bb8d4274cee854b57149b3c419133757576321403646 0
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\validators\isLet.js133751935847552796 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json133751935840882786 0
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\profiler\src\SamplingProfiler.js133751935831498645 0
@@ -102,7 +102,7 @@
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\fn\function\virtual133757296743959375 1
 114C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\babel-preset-env\node_modules\semver\internal\lrucache.js133751935836871266 0
 110C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Binary_Property\Join_Control.js133751935846853249 0
-144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index.html133757569547458937 0
+144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index.html133757576320756696 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\set-function-length133751935834207093 1
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib133751935847150470 1
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\src\_class_private_field_update.mjs133751935850513624 0
@@ -120,7 +120,7 @@
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\es6.math.cosh.js133757296737031635 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\lib\requests\ParcelBuildRequest.js133751935845225724 0
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\node_modules\pug-parser\index.js133757296729715512 0
-48C:\Users\Santi\Project\UOC\PEC\PEC1\package.json133757553945107314 0
+48C:\Users\Santi\Project\UOC\PEC\PEC1\package.json133757577800102748 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\40\507554e917663f888af64e74fb90cdc91ff0fb133757554430714380 0
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\generated\index.js133751935837673018 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\runtime-service-worker\package.json133751935829666012 0
@@ -262,7 +262,7 @@
 120C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\package-manager\test\fixtures\has-foo\node_modules\foo\index.js133751935834072927 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script_Extensions\Yi.js133751935850734930 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\package.json133757296728044488 0
-50C:\Users\Santi\Project\UOC\PEC\PEC1\src\header.pug133757575661894021 0
+50C:\Users\Santi\Project\UOC\PEC\PEC1\src\header.pug133757577343791249 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3b\e355ce3473d969c0714dd6784614bafde1cba9133757507036552050 0
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\uglify-js\node_modules\source-map\lib\binary-search.js133757296730993095 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\73\1ebf41e320e16de12539800c063a1637a34bfc133757439433036143 0
@@ -739,6 +739,7 @@
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\define-data-property\test133751935830002199 1
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\resolve\test\resolver\browser_field\b.js133751935835948276 0
 106C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\react-refresh\cjs\react-refresh-runtime.production.min.js133751935831803437 0
+63C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.719e152d.css.map133757578103315648 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash.debounce\index.js133751935829399178 0
 57C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\doctypes133751935832203828 1
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\sortedIndex.js133757296740355803 0
@@ -896,7 +897,7 @@
 117C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\clean-css\lib\optimizer\level-2\properties\is-mergeable-shorthand.js133757296731147268 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\strip-ansi\index.js133757296728593018 0
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\supports-preserve-symlinks-flag\.github\FUNDING.yml133751935833447867 0
-144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\index133757569549804657 0
+144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\index133757576323187891 0
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\helpers\lib\helpers\interopRequireDefault.js133751935846348986 0
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\border.js133751935835539393 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-css\LICENSE133751935824719045 0
@@ -950,7 +951,7 @@
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_load.1133751935837852539 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-property-descriptors133751935832850481 1
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\stream.js133751935854079093 0
-71C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Logo_Almonaster-A.d0166a04.png133757576215049328 0
+71C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Logo_Almonaster-A.d0166a04.png133757578087583948 0
 101C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\lib\esm\pseudo-selectors\pseudos.d.ts.map133751935841223369 0
 105C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Binary_Property\Radical.js133751935849529721 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\core.number.iterator.js133757296735575956 0
@@ -986,7 +987,7 @@
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts.map133751935838081967 0
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\resolve\test\filter.js133751935837976919 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\yallist\README.md133751935830451616 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b0133757260466149872 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b0133757576307970629 1
 53C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo133751935839148702 1
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\node_modules\css-tree\lib\syntax\config\walker.js133751935848951217 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc2.c133751935842337210 0
@@ -1185,7 +1186,7 @@
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\lib\replace\property133751935843515772 1
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\resolve\test\precedence133751935842349321 1
 57C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\mdn-data133751935838504925 1
-92C:\Users\Santi\Project\UOC\PEC\PEC1\dist\interior-mequita-de-almonaster-la-real.7a33d466.jpg133757576207117371 0
+92C:\Users\Santi\Project\UOC\PEC\PEC1\dist\interior-mequita-de-almonaster-la-real.7a33d466.jpg133757578087573989 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script\Bassa_Vah.js133751935837281789 0
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ab133757441111478742 1
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\node_modules\constantinople\lib\index.js133757296730591898 0
@@ -1306,7 +1307,7 @@
 111C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-svg\node_modules\semver\functions\minor.js133751935838062970 0
 61C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\LICENSE133751935824671039 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\countBy.js133757296735520834 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fb133757244721772859 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fb133757576317136653 1
 101C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\uglify-js\node_modules\source-map\dist\source-map.js133757296730550417 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a9\9c9189e0ba02dfc1cecff563b55a20bbbe2cfa133757534722519583 0
 55C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\parcel133751935832749503 1
@@ -1323,7 +1324,7 @@
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\_arraySome.js133757296730181116 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\plugins\removeXMLNS.js133751935844349197 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-flag\index.d.ts133751935825271581 0
-69C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Santiago_Martín.20e80e74.jpg133757576207117371 0
+69C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Santiago_Martín.20e80e74.jpg133757578088464016 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\dependencies\lz4\lib\xxhash.c133751935843919783 0
 58C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\path-type133757162203879362 1
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\BE.js133751935841851989 0
@@ -1609,7 +1610,7 @@
 59C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\source-map133751935835948276 1
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\inline-block.js133751935851048863 0
 62C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\source-map-js133751935836070688 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\FETCH_HEAD133757569529334095 0
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\FETCH_HEAD133757576317639835 0
 59C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\strip-ansi133757296728744377 1
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\import-fresh\package.json133751935827290121 0
 120C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\General_Category\Connector_Punctuation.js133751935842252373 0
@@ -1783,7 +1784,7 @@
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\lte.js133757296738413141 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\node_modules\is-expression\index.js133757296729478527 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\lazyload.js133751935851666974 0
-145C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\header.html133757569547458937 0
+145C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\header.html133757576320756696 0
 63C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\yargs\index.js133757296729266305 0
 61C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\ms\readme.md133751935828884768 0
 58C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\yargs\lib133757296730475304 1
@@ -1884,7 +1885,7 @@
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\utility-types\dist\mapped-types.js.map133751935834072927 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\_regexp-exec.js133757296733677299 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\with\lib\index.js133751935829269366 0
-58C:\Users\Santi\Project\UOC\PEC\PEC1\dist\presentacion.html133757576246213519 0
+58C:\Users\Santi\Project\UOC\PEC\PEC1\dist\presentacion.html133757578122912402 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-lexer\index.d.ts133751935831410684 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\methodOf.js133757296738766235 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lazy-cache\README.md133757296727813138 0
@@ -2132,6 +2133,7 @@
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\promise\setimmediate\node-extensions.js133751935839577812 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\lib\clean\utils.js133751935844349197 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\unescape.js133757296741428943 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c3\34c45b3e58ecee013e6b03d5d8f98e0a825385133757576321312580 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\resolve\test\resolver\symlinked\package133751935845081862 1
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\keys.js133757296738220324 0
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\uglify-js\node_modules133757296726181851 1
@@ -2524,7 +2526,7 @@
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\core\lib\gensync-utils\functional.js133751935843849703 0
 82C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerator-transform\src\meta.js133751935834649484 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\plugins\applyTransforms.js133751935840071477 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e6133757468761345440 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e6133757576317211783 1
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\node_modules\pug-attrs\package.json133757296729102314 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\source-map\index.d.ts133751935844480060 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\plugins\cleanupAttrs.js133751935840148698 0
@@ -2602,6 +2604,7 @@
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\escalade\dist\index.mjs133751935831352903 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\plugins\prefixIds.js133751935842222162 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script_Extensions\Tifinagh.js133751935850353081 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\1a\4c228077f6bf7dd58e1e2de509b287cacf03bb133757576317181792 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\svgo\plugins\removeAttributesBySelector.js133751935842349321 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\sortedUniq.js133757296740456160 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\generator\lib\node\whitespace.js.map133751935840101033 0
@@ -3241,7 +3244,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cb\e137e1109de81a7ee79387e9ef41d0a9c9d988133757449358319523 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\AI.js133751935835549387 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\resolve\test\subdirs.js133751935844080303 0
-163C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\remotes\origin\main133757569529324098 0
+163C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\remotes\origin\main133757576317619827 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\node_modules\domutils\lib\esm\manipulation.js.map133751935839148702 0
 101C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-modules-umd\lib\index.js.map133751935831951584 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\resolve\test\resolver\baz133751935844626082 1
@@ -3491,7 +3494,7 @@
 79C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\modifications133751935846595414 1
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_stat.1133751935838187012 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\es6.typed.float64-array.js133757296738896363 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f8\708261df2b37680a2a7d6f07540198d0e6eadf133757569547959882 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f8\708261df2b37680a2a7d6f07540198d0e6eadf133757576321322582 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\_strictLastIndexOf.js133757296734521193 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerator-transform\src\visit.js133751935836217286 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerator-transform\src\hoist.js133751935831679641 0
@@ -3575,7 +3578,7 @@
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script_Extensions\Sundanese.js133751935849952855 0
 101C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script\Pahawh_Hmong.js133751935849349833 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script_Extensions\Buginese.js133751935839148702 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\08\1506f5c9e36d7a83d0783a80556e35be5daf90133757569548018897 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\08\1506f5c9e36d7a83d0783a80556e35be5daf90133757576321383638 0
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-json-strings\LICENSE133751935827690736 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\pathEq.js133757296739381697 0
 116C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-posthtml\node_modules\semver\functions\parse.js133751935838549924 0
@@ -4042,7 +4045,7 @@
 104C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script\Hanifi_Rohingya.js133751935846070795 0
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Binary_Property\Emoji.js133751935844884683 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.math.acosh.js133757296736944500 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\36133757439406069351 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\36133757576307980696 1
 63C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\nanoid\LICENSE133751935824671039 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script\Hanunoo.js133751935846070795 0
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script\Hiragana.js133751935846348986 0
@@ -4050,7 +4053,7 @@
 79C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\fn\number\is-finite.js133757296742828563 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\fn\json133757296744953945 1
 95C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\fn\string\virtual\match-all.js133757296743476624 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\74\5df9e3e4c41c11a004c9f342d467123fe535e4133757569548053985 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\74\5df9e3e4c41c11a004c9f342d467123fe535e4133757576321423867 0
 112C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\semver\functions\diff.js133751935834550391 0
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\dependencies\v8\v8-fast-api-calls.h133751935845751962 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Script\Inherited.js133751935846651117 0
@@ -4262,7 +4265,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f2\b548398a51290a0d54c96e5391379ca9c13798133757456693964661 0
 126C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Binary_Property\Changes_When_NFKC_Casefolded.js133751935841452273 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\css-hyphens.js133751935847251169 0
-58C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.06d7142a.js133757576221015572 0
+58C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.06d7142a.js133757578103183039 0
 123C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Atrule.js133751935830927422 0
 114C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\General_Category\Currency_Symbol.js133751935842649287 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\value.js133757296742072903 0
@@ -4338,6 +4341,7 @@
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\js-yaml\CHANGELOG.md133751935838852817 0
 123C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\common\TokenStream.js133751935845802757 0
 107C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\regenerate-unicode-properties\Binary_Property\Diacritic.js133751935844080303 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\92\4526e1f171a65874889056d95260f6db31fef2133757576316979993 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-pug\lib133751935826374849 1
 82C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\cjs\_ts_metadata.cjs133751935848650508 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\src\_extends.mjs133751935850716761 0
@@ -4568,7 +4572,7 @@
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\babel-preset-env\node_modules\.bin\semver.cmd133751935857150597 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\symbol\observable.js133757296733402452 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\lib\index.d.ts.map133751935840615975 0
-164C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Logo_Almonaster-A.d0166a04.png133757569547458937 0
+164C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Logo_Almonaster-A.d0166a04.png133757576320756696 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_type_of133751935846508128 1
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\test\dependencies133757296730505314 1
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\fn\set-timeout.js133757296744495402 0
@@ -4916,7 +4920,7 @@
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\overArgs.js133757296739160985 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\node_modules\acorn\LICENSE133757296729745508 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\es6.string.includes.js133757296738524503 0
-144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\styles.css133757569547468929 0
+144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\styles.css133757576320766773 0
 84C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\fn\array\flatten.js133757296740658750 0
 111C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\syntaxes.json133751935837384707 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\esm\_dispose.js133751935849448917 0
@@ -4930,7 +4934,7 @@
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\helper-module-transforms\lib\lazy-modules.js133751935835101521 0
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\autoprefixer\lib\hacks\fullscreen.js133751935838862950 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\pug-cli\node_modules\acorn\src\options.js133757296731494565 0
-185C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\interior-mequita-de-almonaster-la-real.7a33d466.jpg133757569547494039 0
+185C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\interior-mequita-de-almonaster-la-real.7a33d466.jpg133757576320818060 0
 119C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\test\fixtures\invalid-target-source-not-file\src\index.js133751935843807477 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\watcher\src\kqueue133751935838650247 1
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\words.js133757296742223241 0
@@ -5160,7 +5164,7 @@
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\es6.math.fround.js133757296737066808 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\htmlnano\lib\presets\ampSafe.cjs133751935826721105 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\path-exists\readme.md133757162203629434 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\77\4b38197a8789627875438fe158b77ae26e737a133757569548064002 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\77\4b38197a8789627875438fe158b77ae26e737a133757576321433656 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\menu.js133751935852070576 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\parent-module\license133751935827166383 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\parent-module\package.json133751935824671039 0
@@ -5230,7 +5234,7 @@
 129C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json133751935833121342 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\isUndefined.js133757296738074861 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\ordered-binary\.idea\modules.xml133751935835397609 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c7\f1f4113e567e92fe6a03d4e6cbd62d5a63dfc5133757569547849724 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c7\f1f4113e567e92fe6a03d4e6cbd62d5a63dfc5133757576321210636 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\object-assign\license133751935827166383 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\packager-js\src\ESMOutputFormat.js133751935833314311 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\nullthrows\nullthrows.d.ts133751935827349920 0
@@ -5266,7 +5270,7 @@
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\lib\clean\Declaration.js133751935842751914 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\es7.global.js133757296739211045 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT133751935830497629 0
-163C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\heads\gh-pages133757569549854647 0
+163C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\heads\gh-pages133757576323227893 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\graph\lib\index.js133751935836152533 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\nth-check\lib\esm\compile.d.ts.map133751935834155847 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\takeRight.js133757296740812562 0
@@ -5526,7 +5530,7 @@
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_using133751935846611027 1
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-tostringtag\index.js133751935831352903 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\differenceBy.js133757296735832110 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8a133757511861139247 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8a133757576317161769 1
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\msgpackr\dist\index-no-eval.min.js133751935834352231 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\msgpackr\dist\index-no-eval.min.js.map133751935838880033 0
 105C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\core\lib\parser\util\missing-plugin-helper.js.map133751935844349197 0
@@ -5965,7 +5969,7 @@
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\padStart.js133757296739281326 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.bin\regjsparser133751935857150597 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\_assignMergeValue.js133757296730535365 0
-91C:\Users\Santi\Project\UOC\PEC\PEC1\dist\plaza-constitucion-almonaster-la-real.e2530628.jpg133757576215054453 0
+91C:\Users\Santi\Project\UOC\PEC\PEC1\dist\plaza-constitucion-almonaster-la-real.e2530628.jpg133757578099871981 0
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\partialRight.js133757296739331327 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\partition.js133757296739356481 0
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\utils\test\collection.test.js133751935834207093 0
@@ -5976,7 +5980,7 @@
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\css-media-resolution.js133751935847679424 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\font-variant-alternates.js133751935850204940 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\random.js133757296739683035 0
-52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\footer.html133757576245889594 0
+52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\footer.html133757578122704854 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-svg\node_modules\semver\classes\index.js133751935836263803 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\README.md133757296742524897 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\97\0565c3c01b6ae26a6b1641c5544e3b1907f01d133757510409857363 0
@@ -6051,7 +6055,7 @@
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\toJSON.js133757296741076158 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\toPath.js133757296741207541 0
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\node_modules\node-addon-api\tools\clang-format.js133751935835264731 0
-176C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Mezquita_de_al-Monastir_Haram.3547cbff.jpg133757569547515330 0
+176C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Mezquita_de_al-Monastir_Haram.3547cbff.jpg133757576320838058 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\toPlainObject.js133757296741227527 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\helper-define-polyfill-provider\lib\visitors\usage.js133751935837047798 0
 94C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-modules-amd\README.md133751935829359092 0
@@ -6660,7 +6664,7 @@
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\includes.js133757296737096813 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\indexBy.js133757296737147297 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lodash\fp\intersection.js133757296737221299 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f0133757534722602145 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f0133757576317221782 1
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cosmiconfig\dist\cacheWrapper.d.ts.map133751935835749662 0
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\node-resolver-core\node_modules\.bin\semver133751935857150597 0
 113C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-js\node_modules\semver\functions\rcompare.js133751935839148702 0
@@ -6986,7 +6990,7 @@
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\src\lmdb-js.h133751935845081862 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\src\ordered-binary.cpp133751935844509014 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\src\txn.cpp133751935844596133 0
-148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\HEAD133757569549854647 0
+148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\HEAD133757576323227893 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\src\_write_only_error.mjs133751935851151699 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\lmdb\src\v8-functions.cpp133751935844640796 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\cjs\_check_private_redeclaration.cjs133751935847140359 0
@@ -7289,6 +7293,7 @@
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\is-buffer\package.json133757296727617842 0
 82C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\fn\string\bold.js133757296735024063 0
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\css-has.js133751935847150470 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ee\2ba6ec81cc84c153f13648dd10b4821fc1ab19133757576316703329 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\is-buffer\README.md133757296728017168 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.regexp.match.js133757296738220324 0
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c7133757554440646119 1
@@ -7317,6 +7322,7 @@
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\immutable\dist\immutable.min.js133751935834352231 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-types\lib\definitions\experimental.js133757296730312439 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\ignore\LICENSE-MIT133757162203470695 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fb\9f17c5567e2a22708c2b0c03aeb3b09cc00d7d133757576321292585 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\commander\typings\index.d.ts133751935833514993 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\comments\removeComments.js133751935842252373 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\htmlparser2\lib133751935836070688 1
@@ -7430,7 +7436,7 @@
 63C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\hasown\LICENSE133751935827149518 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\hasown\README.md133751935832346030 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\hasown\tsconfig.json133751935830950728 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b1133757534722612086 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b1133757576307990571 1
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-tostringtag\.nycrc133751935825271581 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133751935848754915 0
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\core.delay.js133757296735292341 0
@@ -7479,7 +7485,7 @@
 104C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es7.reflect.has-own-metadata.js133757296740038136 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-ansi\index.js133757296728583034 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-ansi\license133757296728658150 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3f133757443268508717 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3f133757576317126653 1
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-ansi\package.json133757296728367536 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\has-ansi\readme.md133757296728785451 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\graceful-fs\clone.js133757162203119327 0
@@ -7759,7 +7765,7 @@
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\escalade\index.d.ts133751935833447867 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\escalade\license133751935824479949 0
 62C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\escalade\sync133751935834072927 1
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3b\cee6ea3212f0f6902333fc61911e7e32555a23133757569547984915 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3b\cee6ea3212f0f6902333fc61911e7e32555a23133757576321352568 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\escalade\sync\index.d.mts133751935833051229 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\escalade\sync\index.d.ts133751935834155847 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\fs\package.json133751935835272252 0
@@ -7802,6 +7808,7 @@
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\es-define-property\.eslintrc133751935824608536 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\es-define-property\.github133751935834072927 1
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\es-define-property\.nycrc133751935825271581 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\1c\3406a6b4730e05749bcb63210559935d0f5059133757576316488835 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\lib\esm\sort.d.ts.map133751935841557253 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\es6\map.js133757296743434855 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\72\4628875fda6f2296fc17e78b0fc513ee9b093a133757439430377396 0
@@ -7852,6 +7859,7 @@
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\fn\array\reduce-right.js133757296744214837 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\entities\lib\decode_codepoint.js133751935826475488 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cosmiconfig\dist\types.js133751935835051252 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\62\a2fb324eb369010e756927ec997588e80ad112133757576323207888 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\entities\lib\encode-trie.d.ts133751935837554868 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cosmiconfig\dist\defaults.d.ts.map133751935836582678 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\entities\lib\encode-trie.js133751935832516331 0
@@ -8362,7 +8370,7 @@
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Hash.cjs133751935840647856 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\package-manager\node_modules\semver\classes\index.js133751935836263803 0
 106C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133751935840882786 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a4\b9ead63d3216cdb92aedeafed8b333c20d62ca133757569547838390 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a4\b9ead63d3216cdb92aedeafed8b333c20d62ca133757576321200627 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\namevalue-storage.js133751935852515220 0
 104C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-html\node_modules\srcset\index.d.ts133751935830252482 0
 106C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\node_modules\css-tree\cjs\syntax\node\IdSelector.cjs133751935841004162 0
@@ -8520,7 +8528,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f4\924eef98d315cf42ad56da384e9f05e9e1650e133757282188961679 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\lib\clean\WhiteSpace.js133751935844661003 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\dist\version.cjs133751935840101033 0
-202C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\pack\pack-0622356348b59e95fc7399013b5bf9c7d8001ad0.pack133757569547828401 0
+202C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\pack\pack-0622356348b59e95fc7399013b5bf9c7d8001ad0.pack133757576321393643 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\cjs\compress.cjs133751935836251941 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\cjs\replace133751935839848362 1
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\csso\cjs\restructure133751935839577812 1
@@ -8762,7 +8770,7 @@
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-tree\cjs\utils\names.cjs133751935844080303 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\fn\string\index.js133757296742278324 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-tree\cjs\utils\url.cjs133751935845809400 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\0e\169841b2dc70e471d930cf0eb9973f6c3115a2133757569547949877 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\0e\169841b2dc70e471d930cf0eb9973f6c3115a2133757576321312580 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-tree\cjs\tokenizer\adopt-buffer.cjs133751935826652900 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-tree\cjs\tokenizer\index.cjs133751935842649287 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-tree\cjs\tokenizer\OffsetToLocation.cjs133751935844349197 0
@@ -8968,6 +8976,7 @@
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\lib\esm\sort.d.ts133751935844000234 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\node_modules\domutils\lib\index.d.ts133751935841452273 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\64\3da27eb66221a459cce90b566dd6c20483e857133757507036495153 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c9\846977e1d607b9e797f644754ab93b153853fe133757576321302579 0
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-modules\lib\plugins\transform-safari-block-shadowing\index.js133751935833950558 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\lib\esm\sort.js133751935836601394 0
 94C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\css-select\node_modules\domutils\lib\index.js133751935832351113 0
@@ -9538,7 +9547,7 @@
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\es6.function.name.js133757296736913760 0
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\features\colr-v1.js133751935845225724 0
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\es6.regexp.constructor.js133757296738155204 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b6\d2d9be6a4e2b4ee9d132b4013efdb6963f67cc133757569547838390 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b6\d2d9be6a4e2b4ee9d132b4013efdb6963f67cc133757576321200627 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\es6.regexp.flags.js133757296738210380 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\es6.regexp.match.js133757296738230313 0
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\modules\library\es6.regexp.search.js133757296738275452 0
@@ -9632,7 +9641,7 @@
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.math.trunc.js133757296737221299 0
 94C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.number.epsilon.js133757296737301583 0
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.number.max-safe-integer.js133757296737391778 0
-164C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\fuente_de_concejo.ae6ae22e.jpg133757569547458937 0
+164C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\fuente_de_concejo.ae6ae22e.jpg133757576320756696 0
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\web.timers.js133757296745652395 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\graph\lib\types.js133751935836951345 0
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.number.min-safe-integer.js133757296737401770 0
@@ -9669,7 +9678,7 @@
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.regexp.search.js133757296738265415 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.regexp.split.js133757296738285452 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.set.js133757296738328024 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_siglo_IX.html133757576245550252 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_siglo_IX.html133757578122526866 0
 68C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\workers\lib133751935840550145 1
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.string.blink.js133757296738383121 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.string.fontcolor.js133757296738463415 0
@@ -9694,6 +9703,7 @@
 98C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.typed.uint32-array.js133757296738993821 0
 105C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.typed.uint8-clamped-array.js133757296739033807 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\BH.js133751935842252373 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\41\d9c301c2672ad57b6bbade89f012d97f76ab64133757576307902949 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.weak-map.js133757296739055836 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\es6.weak-set.js133757296739085851 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\character-parser\index.js133751935830069273 0
@@ -9839,7 +9849,7 @@
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\workers\src\cpuCount.js133751935835693193 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\_string-repeat.js133757296734036849 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\_task.js133757296734092114 0
-172C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\remotes\origin\gh-pages133757569572339184 0
+172C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\remotes\origin\gh-pages133757576341425036 0
 94C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\core-js\library\modules\_to-absolute-index.js133757296734113546 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\types\LICENSE133751935824832973 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\browserslist\package.json133751935834498727 0
@@ -10413,6 +10423,7 @@
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cliui\.travis.yml133757296729448450 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cliui\LICENSE.txt133757296729598937 0
 67C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cliui\package.json133757296728572960 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\9f\fe07d1af176cb8b7df9649328afe1f27dbecdb133757576317009981 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\math\sinh.js133757296732954473 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cliui\README.md133757296728755464 0
 59C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\cliui\test133757296729745508 1
@@ -10507,7 +10518,7 @@
 201C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\pack\pack-0622356348b59e95fc7399013b5bf9c7d8001ad0.idx133757239686993792 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\character-parser\LICENSE133751935828662793 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\character-parser\README.md133751935827166383 0
-167C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\remotes\origin\gh-pages133757569572316856 0
+167C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\remotes\origin\gh-pages133757576341425036 0
 65C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\chalk\index.d.ts133751935832250655 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\chalk\readme.md133751935831448315 0
 70C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\center-align\index.js133757296728170382 0
@@ -10553,6 +10564,7 @@
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\CI.js133751935844820780 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\CK.js133751935844872343 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\CM.js133751935845096839 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e6\1913da073a83a221cdaa1fad8c9a9d4df0b31b133757576317211783 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\CN.js133751935845150546 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\caniuse-lite\data\regions\CO.js133751935845185734 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-spread\lib\index.js133751935830204595 0
@@ -11075,7 +11087,7 @@
 60C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babylon\bin133757296729503577 1
 130C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\pseudo\nth-of-type.js133751935844480060 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babylon\CHANGELOG.md133757296729123746 0
-155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\detalle_año_1812.html133757569547458937 0
+155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\detalle_año_1812.html133757576320756696 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babylon\LICENSE133757296728840500 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babylon\package.json133757296728593018 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babylon\README.md133757296728668163 0
@@ -11320,7 +11332,7 @@
 84C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\array\find.js133757296733639023 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\array\for-each.js133757296733603967 0
 84C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\array\from.js133757296733583973 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ee133757569520179104 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ee133757576316717848 1
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\array\includes.js133757296733487573 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\babel-runtime\core-js\array\index-of.js133757296733457577 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-computed-properties\lib\index.js.map133751935831951584 0
@@ -11447,7 +11459,7 @@
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\autoprefixer\lib\hacks\user-select.js133751935843477426 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\autoprefixer\lib\hacks\writing-mode.js133751935843690371 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\autoprefixer\data\prefixes.js133751935841951153 0
-143C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\HEAD133757569531258133 0
+143C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\HEAD133757576319626554 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\autoprefixer\bin\autoprefixer133751935824987820 0
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\esm\_is_native_reflect_construct.js133751935849554813 0
 61C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\async\any.js133757162203951880 0
@@ -11560,7 +11572,7 @@
 113C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-modules\lib\plugins\transform-safari-for-shadowing133751935834352231 1
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\assert-never\README.md133751935827120464 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\asap\CHANGES.md133751935831848396 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\55\3b63e98f5a50b868af758ff0bb88a5a8b43684133757569547909831 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\55\3b63e98f5a50b868af758ff0bb88a5a8b43684133757576321282585 0
 66C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\asap\package.json133751935824642592 0
 60C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\asap\raw.js133751935831149526 0
 115C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-svg\node_modules\semver\functions\satisfies.js133751935839557072 0
@@ -11713,7 +11725,7 @@
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_define_enumerable_properties133751935842649287 1
 107C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-html\node_modules\semver\ranges\ltr.js133751935837349501 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_define_property133751935843411218 1
-148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\categoria.html133757569547458937 0
+148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\categoria.html133757576320751608 0
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_dispose133751935843477426 1
 79C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\parser\lib\index.js.map133751935839507029 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_export_star133751935843547859 1
@@ -11817,7 +11829,7 @@
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_class_private_field_loose_base\package.json133751935840062521 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\traverse\lib\cache.js133751935831941644 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_class_private_field_init\package.json133751935839848362 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e0\5a4dfc3a55522e5a5e5a40402fe1ecc4af0dc0133757569547894785 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e0\5a4dfc3a55522e5a5e5a40402fe1ecc4af0dc0133757576321272622 0
 101C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_class_private_field_get\package.json133751935839674362 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json133751935839447876 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@swc\helpers\_\_class_extract_field_descriptor\package.json133751935839051415 0
@@ -12102,7 +12114,7 @@
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel133751935837012958 1
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-css133751935829666012 1
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-html133751935832749503 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\92133757511895735796 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\92133757576317000016 1
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-image133751935832649214 1
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\generator\sourceMap.js133751935845523228 0
 71C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-js133751935831951584 1
@@ -12588,7 +12600,7 @@
 111C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\semver\classes\range.js133751935839101685 0
 88C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@nodelib\fs.stat\out\providers\async.js133757162203129413 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\semver\bin\semver.js133751935839684333 0
-52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\header.html133757576245972973 0
+52C:\Users\Santi\Project\UOC\PEC\PEC1\dist\header.html133757578122750090 0
 102C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\index.js133751935824360432 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\.bin\semver133751935857150597 0
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\transformer-babel\node_modules\.bin\semver.cmd133751935857150597 0
@@ -12722,7 +12734,7 @@
 82C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\dispose.js133751935841407143 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\profiler\src\index.js133751935829666012 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\profiler\src\Trace.js133751935832749503 0
-176C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\mequita-de-almonaster-la-real.e940db42.jpg133757569547458937 0
+176C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\mequita-de-almonaster-la-real.e940db42.jpg133757576320756696 0
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\profiler\lib\SamplingProfiler.js133751935830719086 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\profiler\lib\Trace.js133751935832150111 0
 84C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\using.js133751935846749130 0
@@ -12998,7 +13010,7 @@
 111C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\atrule133751935845663597 1
 111C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\config133751935846070795 1
 114C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\create.js133751935837852539 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.06d7142a.js.map133757576221180711 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.06d7142a.js.map133757578103315648 0
 113C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function133751935846060994 1
 113C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\index.js133751935842588440 0
 110C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\scope133751935845948209 1
@@ -13021,6 +13033,7 @@
 122C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\slotted.js133751935845449395 0
 125C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nth.js133751935844606097 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\9d\cbda83cbbcdcf794a3336e38b1deed7e793567133757465844170748 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fd\a75b298f2cf67f66cf813a6712255567ffbc53133757576307949222 0
 137C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\nthWithOfClause.js133751935844640796 0
 134C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\pseudo\common\selectorList.js133751935845417899 0
 120C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\AnPlusB.js133751935829752394 0
@@ -13276,7 +13289,7 @@
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\lexer.js133751935843690371 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\classCheckPrivateStaticAccess.js133751935843803654 0
 125C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\parser.js133751935844949467 0
-51C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.html133757576246093057 0
+51C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.html133757578122821939 0
 125C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\config\walker.js133751935846070795 0
 128C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\font-face.js133751935840882786 0
 127C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\atrule\supports.js133751935845663597 0
@@ -13373,7 +13386,7 @@
 117C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\rcompare.js133751935839148702 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\converters\toKeyAlias.js133751935844080303 0
 114C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\node-resolver-core\node_modules\semver\functions\valid.js133751935840381114 0
-83C:\Users\Santi\Project\UOC\PEC\PEC1\dist\mequita-de-almonaster-la-real.e940db42.jpg133757576207117371 0
+83C:\Users\Santi\Project\UOC\PEC\PEC1\dist\mequita-de-almonaster-la-real.e940db42.jpg133757578084588838 0
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\core\lib\transformation\file\merge-map.js133751935845319251 0
 112C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\node-resolver-core\node_modules\semver\classes\index.js133751935836263803 0
 116C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-modules\lib\plugins\transform-tagged-template-caching133751935834878868 1
@@ -13434,7 +13447,7 @@
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\diagnostic\test\markdown.test.js133751935831119056 0
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\diagnostic\src\diagnostic.js133751935828449539 0
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\diagnostic\lib\diagnostic.d.ts133751935832584666 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1812.html133757576245357393 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1812.html133757578122420668 0
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\diagnostic\lib\diagnostic.js133751935826617750 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a9\323b77741606e635238ee2ef86ad7ea60e453e133757282189286452 0
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\node_modules133751935857003053 1
@@ -13591,7 +13604,7 @@
 72C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\lib\public133751935846749130 1
 95C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\lib\registerCoreWithSerializer.js133751935845948209 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\lib\RequestTracker.js133751935846150240 0
-155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\detalle_año_1234.html133757569547458937 0
+155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\detalle_año_1234.html133757576320756696 0
 77C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\core\lib\parse.js.map133751935844149119 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\lib\resolveOptions.js133751935846348986 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\core\lib\serializerCore.browser.js133751935846470688 0
@@ -13633,6 +13646,7 @@
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\cache\src\index.js133751935834250578 0
 79C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\cache\src\LMDBCache.js133751935834878868 0
 79C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\cache\lib\constants.js133751935826598461 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a4\f21140521966ffa1c342fc7eef6573f6315850133757576321302579 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\cache\lib\IDBCache.js133751935832749503 0
 78C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@ampproject\remapping\LICENSE133751935824881500 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@parcel\cache\lib\index.js133751935833950558 0
@@ -13883,7 +13897,7 @@
 103C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\modifications\removePropertiesDeep.js133751935846552311 0
 107C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\modifications\removePropertiesDeep.js.map133751935846585318 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\modifications\typescript133751935846611027 1
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\57\4ec5b775cc0531aec26f22a2077565d2212f89133757569547919884 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\57\4ec5b775cc0531aec26f22a2077565d2212f89133757576321292585 0
 108C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\modifications\flow\removeTypeDuplicates.js133751935846348986 0
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\definitions\core.js133751935844596133 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\definitions\deprecated-aliases.js133751935844780803 0
@@ -13927,6 +13941,7 @@
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\productions.js.map133751935839051415 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\react133751935839349293 1
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\typescript133751935839684333 1
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f0\de28fb969a1ee1b5b8166c3394529f8f2ac5eb133757576317221782 0
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\validateNode.js133751935839848362 0
 106C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\typescript\createTSUnionType.js133751935839577812 0
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\types\lib\builders\react\buildChildren.js133751935839269024 0
@@ -13949,7 +13964,7 @@
 74C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\traverse\lib\scope133751935841951153 1
 85C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\traverse\lib\traverse-node.js133751935842252373 0
 81C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\traverse\lib\types.js.map133751935842489201 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\62133757456694102598 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\62133757576323217882 1
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\traverse\lib\visitors.js133751935842549867 0
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\01133757534722479660 1
 87C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\traverse\lib\scope\index.js.map133751935841951153 0
@@ -14095,7 +14110,7 @@
 82C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\jsx.js133751935845782181 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ba\605f6a0ad4e132e8399b6e06fbe78c8f79efa7133757511877925835 0
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\maybeArrayLike.js133751935845809400 0
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\heads133757569549864667 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\heads133757576323227893 1
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\newArrowCheck.js133751935845849624 0
 94C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\nonIterableRest.js133751935845849624 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\nullishReceiverError.js133751935845948209 0
@@ -14108,7 +14123,7 @@
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\slicedToArray.js133751935846348986 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\superPropBase.js133751935846348986 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\superPropGet.js133751935846461202 0
-91C:\Users\Santi\Project\UOC\PEC\PEC1\dist\iglesia-san-martin-almonaster-la-real.0a34f6b3.jpg133757576207117371 0
+91C:\Users\Santi\Project\UOC\PEC\PEC1\dist\iglesia-san-martin-almonaster-la-real.0a34f6b3.jpg133757578088464016 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\superPropSet.js133751935846470688 0
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\runtime\helpers\esm\taggedTemplateLiteral.js133751935846508128 0
 86C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\core\lib\config\files\types.js133751935838650247 0
@@ -14141,7 +14156,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\dc\d9c729391275f0b90fe0397377b9fcf498faea133757511885640802 0
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\available-plugins.js133751935836550399 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\index.js.map133751935838184162 0
-148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\styles.css.map133757569547468929 0
+148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\styles.css.map133757576320766773 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\module-transformations.js133751935838249157 0
 100C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\module-transformations.js.map133751935838354005 0
 95C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\normalize-options.js.map133751935838748536 0
@@ -14151,10 +14166,11 @@
 91C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\shipped-proposals.js133751935840248106 0
 95C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\shipped-proposals.js.map133751935840415975 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\targets-parser.js.map133751935840632780 0
-73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v2.e8a0c37d.jpg133757576215054453 0
+73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v2.e8a0c37d.jpg133757578088464016 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\polyfills\babel-polyfill.cjs133751935839577812 0
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\lib\polyfills\regenerator.cjs133751935839848362 0
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\data\built-ins.json.js133751935834341994 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e6\82c55dad7ea78ff16571d71324ad6bf348bbf7133757576321302579 0
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\core\lib\config\files\module-types.js.map133751935837949583 0
 89C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\data\core-js-compat.js133751935834605884 0
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\preset-env\data\corejs2-built-ins.js133751935834878868 0
@@ -14309,7 +14325,7 @@
 93C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-class-properties\lib133751935831679641 1
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-class-properties\LICENSE133751935828692877 0
 99C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-class-properties\README.md133751935830075281 0
-138C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git133757569549864667 1
+138C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git133757576323247986 1
 90C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\lib133751935834950972 1
 96C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\README.md133751935830075281 0
 109C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-transform-block-scoping\lib\annex-B_3_3.js.map133751935831848396 0
@@ -14355,7 +14371,7 @@
 118C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-v8-static-class-fields-redefine-readonly\LICENSE133751935829802573 0
 123C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-v8-static-class-fields-redefine-readonly\package.json133751935832948579 0
 115C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-v8-spread-parameters-in-optional-chaining\lib133751935832351113 1
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\5d\00126b959f091fb5f153be4ae2147577904e0f133757569547909831 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\5d\00126b959f091fb5f153be4ae2147577904e0f133757576321292585 0
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-v8-spread-parameters-in-optional-chaining\package.json133751935832948579 0
 124C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-v8-spread-parameters-in-optional-chaining\lib\index.js133751935831938121 0
 134C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\plugin-bugfix-safari-id-destructuring-collision-in-function-expression\LICENSE133751935829553154 0
@@ -14580,7 +14596,7 @@
 118C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\helper-builder-binary-assignment-operator-visitor\lib\index.js133751935830584640 0
 83C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\helper-annotate-as-pure\lib133751935830002199 1
 92C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\helper-annotate-as-pure\lib\index.js133751935829017128 0
-153C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\COMMIT_EDITMSG133757569549814671 0
+153C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\COMMIT_EDITMSG133757576323197891 0
 73C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\generator\LICENSE133751935830361716 0
 75C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\generator\README.md133751935831149526 0
 80C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@babel\generator\lib\generators133751935838862950 1
@@ -14692,42 +14708,42 @@
 97C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\@ampproject\remapping\dist\types\source-map.d.ts133751935834498727 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages133757239623412651 1
 143C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.nojekyll133757569547195818 0
-169C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Almonaster-la-real-1-1.b7686978.jpg133757569547494039 0
-156C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\categoria.e483c4ed.css133757569547458937 0
-160C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\categoria.e483c4ed.css.map133757569547458937 0
-155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\detalle_siglo_IX.html133757569547458937 0
-146C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\enlaces.html133757569547458937 0
-145C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\footer.html133757569547458937 0
-184C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\iglesia-san-martin-almonaster-la-real.0a34f6b3.jpg133757569547478931 0
-151C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index.06d7142a.js133757569547458937 0
-155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index.06d7142a.js.map133757569547458937 0
-166C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index_background_v1.df27f429.jpg133757569547494039 0
-166C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index_background_v2.e8a0c37d.jpg133757569547494039 0
-166C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index_background_v3.63dc7d02.jpg133757569547494039 0
-157C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\LogoUOC_bn.53db16dd.png133757569547458937 0
-184C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\plaza-constitucion-almonaster-la-real.e2530628.jpg133757569547494039 0
-151C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\presentacion.html133757569547468929 0
-162C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Santiago_Martín.20e80e74.jpg133757569547483980 0
-145C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\config133757569548765144 0
+169C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Almonaster-la-real-1-1.b7686978.jpg133757576320808061 0
+156C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\categoria.e483c4ed.css133757576320751608 0
+160C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\categoria.e483c4ed.css.map133757576320751608 0
+155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\detalle_siglo_IX.html133757576320756696 0
+146C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\enlaces.html133757576320756696 0
+145C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\footer.html133757576320756696 0
+184C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\iglesia-san-martin-almonaster-la-real.0a34f6b3.jpg133757576320776755 0
+151C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index.06d7142a.js133757576320756696 0
+155C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index.06d7142a.js.map133757576320756696 0
+166C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index_background_v1.df27f429.jpg133757576320828054 0
+166C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index_background_v2.e8a0c37d.jpg133757576320818060 0
+166C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\index_background_v3.63dc7d02.jpg133757576320818060 0
+157C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\LogoUOC_bn.53db16dd.png133757576320756696 0
+184C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\plaza-constitucion-almonaster-la-real.e2530628.jpg133757576320818060 0
+151C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\presentacion.html133757576320766773 0
+162C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\Santiago_Martín.20e80e74.jpg133757576320788047 0
+145C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\config133757576322151923 0
 150C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\description133757239623422643 0
 144C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\hooks133757239623462664 1
-146C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects133757569550068706 1
-148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\ORIG_HEAD133757534745355939 0
+146C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects133757576323417198 1
+148C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\ORIG_HEAD133757576320495697 0
 150C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\packed-refs133757239688399608 0
 143C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs133757239688409227 1
-158C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\remotes\origin133757569572349525 1
-158C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\heads\gh-pages133757569549854647 0
+158C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\remotes\origin133757576341435040 1
+158C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\refs\heads\gh-pages133757576323227893 0
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\04133757456703452900 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\0c133757510409436442 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\0d133757433568115118 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\11133757515329931749 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\11133757576323177825 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\12133757564118253187 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\14133757552814315495 1
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8e\db730bc330f3abece6ed244c886e5ed8c2c1be133757554430734370 0
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\15133757519570437842 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\17133757519570450659 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\1a133757534730628140 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\1c133757518999838853 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\1a133757576317201791 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\1c133757576316659078 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\20133757550372935213 1
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c7\2407d25b8a73da9007fb55d8c81fe8755fae1f133757288286660712 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\de\a5603117d4b61182f73eabbd51354eb938a165133757293025186672 0
@@ -14745,7 +14761,7 @@
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3c133757569528906467 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3e133757449328233655 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\40133757559031780184 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\41133757511861125853 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\41133757576307933142 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\42133757534738011543 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\44133757446914889508 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\47133757449328343951 1
@@ -14783,7 +14799,7 @@
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\87133757446914879516 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8d133757554440456706 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8f133757517168761282 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\91133757534738810054 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\91133757576317171766 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\95133757261544386966 1
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\7c\6332867ee633424e7c672bd22b63bb8a294951133757261538860202 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a8\f2c05a050a6130bc46c7a0020dade119874717133757518997167846 0
@@ -14791,10 +14807,10 @@
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\97133757564126849641 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\9b133757552814234044 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\9e133757534739979756 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\9f133757517168816673 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\9f133757576317019996 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a1133757517182477991 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a2133757552805820643 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a4133757507050630320 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a4133757576317049984 1
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b7\399f4ecc5aaeb3ce2e1c593d1c2dbd4b04c4f2133757433568126149 0
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a6133757554440591682 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\a7133757282196160242 1
@@ -14812,17 +14828,17 @@
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\bb133757511886487882 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c0133757534722592049 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c2133757534722438249 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c3133757550372945214 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c3133757576317089691 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c4133757439429802733 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c5133757564118233182 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c9133757515329971713 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c9133757576317079639 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ca133757507036905427 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cd133757517182145394 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ce133757305180400602 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d0133757301993391810 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d1133757441101040156 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d2133757449361034700 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d4133757559032266662 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d4133757576317104743 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d6133757554430677324 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d9133757517182231670 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\e3133757511861380784 1
@@ -14835,13 +14851,14 @@
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f8133757301976963298 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f9133757302653622227 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fc133757441101019939 1
-149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fd133757507050778824 1
+149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fd133757576307960576 1
 149C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ff133757559023178375 1
 201C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\pack\pack-0622356348b59e95fc7399013b5bf9c7d8001ad0.rev133757239687035512 0
 201C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\pack\pack-98853b8225127098a16e7b1e1a16e519fcff46f5.idx133757260459872994 0
 201C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\pack\pack-98853b8225127098a16e7b1e1a16e519fcff46f5.rev133757260459872994 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fe\ae96d74a85d19d16cde48da6de75ab125743ab133757569548053985 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fd\d86519fbfa93f5a52d20cfaa62e805c91431cc133757507050758661 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\fb\f04a3f1e6bf0ae6b842e5b7576f8ebc31f129e133757576321423867 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f9\d95b34ce87c204bd96f756ac9852f1b9a56e26133757302653602199 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f8\0c154336323e968c2910b29796a15f845be02b133757261545705498 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\f7\98f6955731813575909fd8792a0a1aca76fd4c133757270417517741 0
@@ -14899,6 +14916,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d8\c21922bc94ed2ea91fc9a14cb94a4199e71102133757515329951704 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d7\61a9b7e7bb0d740188839b04ec741965bd759e133757261538829110 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d4\683370ac0405a337fc84c61b60f6057667aa05133757305204113344 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d4\8fb618c39db2a36f8becd93ab00f6891310b2c133757576321322582 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d4\dfd013168a809b7672664562ebee54eaf7148f133757293024962472 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d4\e731f3d4595b2c29f266bc7374f62a94e96ec3133757559032246846 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\d2\466ccb68e1f521b1a9df557897782b87e2df3b133757449361014657 0
@@ -14912,7 +14930,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cd\b5a0b1878a1c800512c9a283ed7340911c3cd7133757439430455063 0
 69C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.bin\detect-libc.ps1133751935857150597 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cc\ae585490318d86e95f09377360391d5dfe14b3133757441113182197 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cc\bbfc6e74d37bd1d6ec9c7bf9c03996fc6ba333133757569548053985 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cc\bbfc6e74d37bd1d6ec9c7bf9c03996fc6ba333133757576321433656 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\cb\d9be6575d4c5b0b14f6f8e3788aa1387104c5e133757439430060397 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ca\03a19685e2448fd4ea3482fbc219126d5fc12a133757261545526220 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\c9\a10645e2a7d32485ce1cbe9392d7c0135f8a6c133757515329971713 0
@@ -14940,7 +14958,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b6\d78ad5eb82e61c2da418d10556ff72df04c4ec133757550372985503 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b4\2820e119244df58220945555d9616c67336385133757301982900146 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b4\43e4e7ae5c8268c142e92395b6ff7ab1497b95133757443276421888 0
-73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v3.63dc7d02.jpg133757576210752178 0
+73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v3.63dc7d02.jpg133757578099871981 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b4\ee0b137de001e1a052df4e6b0c03c29c1b5548133757439406791291 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b4\faaa7492f18464dfccfe5bb89e75c8fd0679e2133757451314421354 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b3\911994e44fbf2f89503c8bd9a8f198651f581e133757305180350437 0
@@ -14948,7 +14966,9 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b2\458a080abaec71f1e0886bb6a00e0f4adb89b8133757569520082376 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b2\7aeff0b6d0c01a13b4b508676dd9be5925c05c133757507036536722 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b1\033aaf78e21f8cd46f9bceafce9418afe859fa133757288302047169 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b1\a7f8b10bf6026c468fd071bf5bd2a5a4fa91fa133757576307990571 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b0\4518a38edf0b1dca2bcac591591118db630923133757260466149872 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\b0\69963724c7552cb0e6287de50ca10e085a0146133757576307960576 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\af\5cff449e0a7fe0c4811cc626625dace69db3b5133757433968492351 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ae\ba19a0b163b30d18c8029f51d7a73fbd3eb412133757446907680340 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\ae\c54bb5e5925ab8a069873b02ed23926de22a4b133757569528916465 0
@@ -14995,6 +15015,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\93\86edb4d7df4cbbe00486d36940c7148cbc9869133757519569671065 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\93\c7ed5ec4145537a445a7b5793ffede5f1fe5aa133757261545640193 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\92\6a031d66d18934a6292028031147c51763e7c0133757511895710598 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\91\b898eafaa3959032305aec8163c9c9736e7aa5133757576317161769 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\90\4ba4765b65cc82a37733e0df9ab25a057bff5e133757288302092261 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\90\c517425e3249ae0430d44d63783390bcc09625133757433968472294 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\90\d88916e87087c873004141fde516d89982c177133757293023324287 0
@@ -15004,6 +15025,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8e\dd77e840a008dced24153ffbbc841b61e6685e133757453426337827 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8b\5d51e01d48f721a9d1cb5d0d6317bee73da305133757301982457531 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8a\9edd185c6869a8b07405e1c891ca898d88077e133757511861125853 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8a\bae1bf4805f7798d810a6e34000a3e4e0d65f8133757576317151717 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\8a\dff58064416016938cfec9ea33474d179d52a0133757302654080708 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\88\9ceb89fe8ee34bc8b59528ab630e9c444f633c133757550380884170 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\87\29fcbd79cca15335adc49bea8a93475c6821e4133757433968237020 0
@@ -15028,7 +15050,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\79\04cf78f92bf56b233a3c23953f98df8e8f4272133757293017106151 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\78\42800554c8e3298aa8a7e75a02ecfb48691834133757302654155749 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\78\7a6a603f7bbeb09cbc8852d091fcd8c35458dc133757282186105417 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\78\cb10c7d2e1c68725d6d2f6072497054c38765d133757569547998851 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\78\cb10c7d2e1c68725d6d2f6072497054c38765d133757576321357598 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\74\4a0d3a0e590a3bcdeaa83321b7aa7fca9bc8d2133757439443717153 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\74\79eb4c0473a0782bb73b4b0da784c44cfe894a133757569528208631 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\74\d8ee212bc8f611075da6762d16526bc4405689133757433968912596 0
@@ -15057,7 +15079,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\0e\53c73d7686d9e3cafa902e3acdcbef0a915ea4133757446914914645 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\64\71cad28dcfe6d15b9d19d300fda244e37b2ee6133757559023148431 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\63\81b1e80f6ba61b3ab2ad7c82bb240eaa6fa11c133757293347093130 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\63\d363d78d3be0a30f9581dbf6691da2bbef63d5133757569547959882 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\63\d363d78d3be0a30f9581dbf6691da2bbef63d5133757576321332580 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\62\8f569ed03ad47ccc5e8c69edc3df5ff466c3a2133757456694092633 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\60\6ed3ac7cf7b92205d124f9b9ece4fd08fa26f9133757564118192263 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\60\ddb3d28bd2e409b1b5e8bc8e0b0380275e6ee7133757519576861340 0
@@ -15073,7 +15095,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\5b\c87b7e0d7f3183524dce92653c76d214f6df3b133757510416913968 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\5b\da05a9d2ab0dfb61d379d15f8f118140540191133757510409466537 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\59\e66d81261712d33c456f598507fafe7247243c133757439441072656 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\58\1b665eb846a1838727d0ce7230f3fa6b50562e133757453438274323 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\58\1b665eb846a1838727d0ce7230f3fa6b50562e133757576317236833 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\58\b05fbf903dfbc6cd6e105bf5cbbe0e194289fa133757301976921647 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\57\6028c250ecbb5f8dba65d8da9fab945f478417133757441101886007 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\57\a12cecc75c7f8ffefecb2a3de630d68857e465133757511861094228 0
@@ -15105,6 +15127,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\41\627f0b65fdee8fa7fee59990b19017a18d43bb133757446907737088 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\41\d68827bdb2b91a7d57e272498b48d4176e7b80133757282189328404 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\40\89665ef492b71f89f89a35b5e4df9e613e1acb133757559031525743 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3f\9063bdd07c89381a78388f2ccf94368bbe27cd133757576321332580 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3e\ff63ddbde0fe649e2b7570dc4b41f053a86776133757449328201609 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3d\a0d987c24b6225b2ddd34872e7d99ffd53d7a5133757433559562931 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3c\449cec9453a64d911d442d2c4e47a9c15d19c9133757301983354457 0
@@ -15115,10 +15138,11 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3a\446b2aecb2338e0f48acd49447d2b0aa3c520e133757270417440655 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3a\6afbb559feb95625cc3a25732732d0b0ddb693133757443282816851 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\3a\a9a2fdfd636e32cf1bc03b8db09c50441407b5133757511885412716 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\39\5ce49198de5fa38fd959f6b22e3bcdf2e7cf74133757569547939882 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\39\5ce49198de5fa38fd959f6b22e3bcdf2e7cf74133757576321312580 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\39\d0bdf5132e893cfee66e9e1f4bfbbf69c7471e133757515320760528 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\36\1e79d7217907c8c787e62db0a18a88ee59c305133757293347134612 0
-188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\36\8e4ffa09ed6def0af101c9f3218855db047a9e133757569547959882 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\36\8e4ffa09ed6def0af101c9f3218855db047a9e133757576321322582 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\36\f7ada0c2203dec159cc029325af3a933cbc62e133757576307980696 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\33\9ab9ae6f799a6987bd9602c2908f1fa4254341133757511861298474 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\33\a86dbdf77b81df50617c07071679dfba222922133757453436994772 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\31\55533ae10613669da0fb09c50f75496a004faf133757305180360479 0
@@ -15164,6 +15188,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\14\d291864ab5c529079568ad4b7720045e8235ab133757269820591321 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\12\cb4b2d61964053a081938ea3b77717a7909afe133757534738242882 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\12\f09bb0b853066b62650106119e3915ec7166c0133757453427394544 0
+188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\11\b44f1574880be475d5b4184cbade79f11a9cbc133757576323167701 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\11\bbb169b117904a1626a8b1398c1ae8ae4c3d96133757439406761370 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\10\068cbe4533ef817e8d5100e1a82d2b363067e9133757293016990026 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\10\feacd6c88e366cd3a87b5ac87c673816a129cd133757507048193316 0
@@ -15185,7 +15210,7 @@
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\01\dff68d7db71c6ef3e9e93233e8f8114deb8391133757293347603037 0
 188C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\objects\00\6c7b0413e61ccf9a9d6d57f43bb178606f2eef133757302649271519 0
 156C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\remotes133757239688419566 1
-168C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\remotes\origin\main133757569529324098 0
+168C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\remotes\origin\main133757576317619827 0
 159C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\logs\refs\heads\main133757239688459562 0
 151C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\info\exclude133757239623462664 0
 162C:\Users\Santi\Project\UOC\PEC\PEC1\node_modules\.cache\gh-pages\https!github.com!santimpguoc!M4.257---Herramientas-HTML-y-CSS---PEC1\.git\hooks\commit-msg.sample133757239623432643 0
@@ -15229,15 +15254,16 @@
 76C:\Users\Santi\Project\UOC\PEC\PEC1\images\mequita-de-almonaster-la-real.jpg133757076097069950 0
 76C:\Users\Santi\Project\UOC\PEC\PEC1\images\Mezquita_de_al-Monastir_Haram.jpg133755779789631268 0
 84C:\Users\Santi\Project\UOC\PEC\PEC1\images\plaza-constitucion-almonaster-la-real.jpg133757075925117496 0
-76C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Almonaster-la-real-1-1.b7686978.jpg133757576210736972 0
+76C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Almonaster-la-real-1-1.b7686978.jpg133757578087573989 0
 63C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.e483c4ed.css133757576221005573 0
-55C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.html133757576244999875 0
-62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1234.html133757576245197626 0
-53C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.html133757576245849423 0
-71C:\Users\Santi\Project\UOC\PEC\PEC1\dist\fuente_de_concejo.ae6ae22e.jpg133757576216024614 0
-73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v1.df27f429.jpg133757576215054453 0
-64C:\Users\Santi\Project\UOC\PEC\PEC1\dist\LogoUOC_bn.53db16dd.png133757576210736972 0
-83C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Mezquita_de_al-Monastir_Haram.3547cbff.jpg133757576216039739 0
+55C:\Users\Santi\Project\UOC\PEC\PEC1\dist\categoria.html133757578122157811 0
+62C:\Users\Santi\Project\UOC\PEC\PEC1\dist\detalle_año_1234.html133757578122289303 0
+53C:\Users\Santi\Project\UOC\PEC\PEC1\dist\enlaces.html133757578122679852 0
+71C:\Users\Santi\Project\UOC\PEC\PEC1\dist\fuente_de_concejo.ae6ae22e.jpg133757578087583948 0
+59C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index.719e152d.css133757578103183039 0
+73C:\Users\Santi\Project\UOC\PEC\PEC1\dist\index_background_v1.df27f429.jpg133757578099871981 0
+64C:\Users\Santi\Project\UOC\PEC\PEC1\dist\LogoUOC_bn.53db16dd.png133757578087573989 0
+83C:\Users\Santi\Project\UOC\PEC\PEC1\dist\Mezquita_de_al-Monastir_Haram.3547cbff.jpg133757578099871981 0
 51C:\Users\Santi\Project\UOC\PEC\PEC1\dist\styles.css133757534195488121 0
 55C:\Users\Santi\Project\UOC\PEC\PEC1\dist\styles.css.map133757534195513325 0
 64C:\Users\Santi\Project\UOC\PEC\PEC1\.github\workflows\deploy.yml133757557973064613 0
