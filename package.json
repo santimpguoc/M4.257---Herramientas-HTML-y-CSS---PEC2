@@ -2,8 +2,8 @@
   "name": "pec1",
   "version": "1.0.0",
   "scripts": {
-    "dev": "npx parcel src/*.pug --open --no-cache",
-    "build:parcel": "parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist --no-cache",
+    "dev": "npx parcel \"src/index.pug\" --open --no-cache",
+    "build:parcel": "parcel build src/index.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist --no-cache",
     "build:pug": "npx pug src -o dist",
     "build:sass": "parcel build src/styles.scss --dist-dir dist",
     "build": "npm run build:parcel && npm run build:pug && npm run build:sass",
