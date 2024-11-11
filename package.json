@@ -4,7 +4,7 @@
   "scripts": {
     "dev": "npx parcel src/*.pug --open --no-cache",
     "build:parcel": "parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist --no-cache",
-    "build:pug": "pug src -o dist",
+    "build:pug": "npx pug src -o dist",
     "build:sass": "npx sass src/styles.scss dist/styles.css",
     "build": "npm run build:parcel && npm run build:pug && npm run build:sass",
     "deploy": "gh-pages -d dist --add",
