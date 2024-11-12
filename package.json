@@ -1,32 +1,22 @@
 {
   "name": "pec1",
   "version": "1.0.0",
-  "scripts": {
-    "dev": "npx parcel src/*.pug --open --no-cache",
-    "build:parcel": "parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist --no-cache",
-    
-    "build:sass": "npx sass src/styles.scss dist/styles.css",
-    "build": "npm run build:parcel && npm run build:sass", 
-    "deploy": "gh-pages -d dist --add",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "description": "",
   "author": "Santiago Martín-Palomo García",
   "license": "ISC",
+  "scripts": {
+    "dev": "parcel src/*.pug --open --no-cache",
+    "build": "npm run clean && parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist --no-cache",
+    "deploy": "gh-pages -d dist --add",
+    "clean": "rimraf dist .parcel-cache"
+  },
+  "keywords": [],
   "devDependencies": {
-    "@babel/preset-env": "^7.25.8",
-    "@parcel/babel-preset-env": "^2.12.0",
-    "@parcel/transformer-pug": "^2.12.0",
-    "@parcel/transformer-sass": "^2.12.0",
-    "autoprefixer": "^10.4.20",
+    "@parcel/transformer-pug": "^2.13.0",
+    "@parcel/transformer-sass": "^2.13.0",
     "gh-pages": "^6.2.0",
-    "parcel": "^2.12.0",
-    "postcss": "^8.4.47",
-    "pug-cli": "^1.0.0-alpha6",
-    "sass": "^1.80.6"
-  },
-  "dependencies": {
-    "pug": "^3.0.3"
-  },
-  "description": ""
+    "npm-run-all": "^4.1.5",
+    "parcel": "^2.13.0",
+    "rimraf": "^5.0.10"
+  }
 }
