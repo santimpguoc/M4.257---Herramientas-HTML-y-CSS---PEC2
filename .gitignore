@@ -1,0 +1,19 @@
+# Dependencias de Node.js
+node_modules/
+
+# Caché de Parcel
+.parcel-cache/
+
+# Carpeta de salida de Parcel
+dist/
+
+# Configuración y caché de GitHub
+.github/
+*.lock
+
+# Archivos de logs
+npm-debug.log*
+
+# Archivos de configuración de editores y entornos
+.vscode/
+
