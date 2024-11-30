@@ -1,12 +1,11 @@
 {
-  "name": "pec1",
+  "name": "pec2",
   "version": "1.0.0",
   "description": "",
   "author": "Santiago Martín-Palomo García",
-  "license": "ISC",
   "scripts": {
-    "dev": "parcel src/*.pug --open --no-cache",
-    "build": "npm run clean && parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC1/ --dist-dir dist --no-cache",
+    "dev": "node src/js/imagesToWebP.js && parcel src/*.pug --open --no-cache",
+    "build": "node src/js/imagesToWebP.js && npm run clean && parcel build src/*.pug --public-url /M4.257---Herramientas-HTML-y-CSS---PEC2/ --dist-dir dist --no-cache",
     "deploy": "gh-pages -d dist --add",
     "clean": "rimraf dist .parcel-cache"
   },
@@ -17,8 +16,8 @@
     "@parcel/transformer-sass": "^2.13.0",
     "gh-pages": "^6.2.0",
     "npm-run-all": "^4.1.5",
-    "parcel": "^2.13.0",
-    "rimraf": "^5.0.10"
+    "rimraf": "^5.0.10",
+    "sharp": "^0.33.5"
   },
   "browserslist": [
     ">0.5%",

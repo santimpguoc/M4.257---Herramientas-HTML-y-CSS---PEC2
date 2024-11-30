@@ -4,7 +4,7 @@ html(lang="es")
     meta(charset="UTF-8")
     meta(name="viewport" content="width=device-width, initial-scale=1.0")
     title Almonaster la Real
-    link(rel="stylesheet" href="styles.scss")
+    link(rel="stylesheet" href="css/styles.scss")
   body
     include header.pug
     
@@ -15,21 +15,28 @@ html(lang="es")
                 p Uno de los pueblos más bonitos de España y situado en la Sierra de Huelva, en pleno Parque Natural de Aracena y Picos de Aroche.
 
                 .index-carrusel
-                    .carrusel 
-                        img(src="../images/Almonaster-la-real-1-1.jpg" alt="Foto 1" class="active")
-                        img(src="../images/iglesia-san-martin-almonaster-la-real.jpg" alt="Foto 2")
-                        img(src="../images/fuente_de_concejo.jpg" alt="Foto 3")
-                        img(src="../images/index_background_v1.jpg" alt="Foto 4")
-                        img(src="../images/index_background_v2.jpg" alt="Foto 5")
-                        img(src="../images/index_background_v3.jpg" alt="Foto 6")
-                        img(src="../images/mequita-de-almonaster-la-real.jpg" alt="Foto 7")
-                        img(src="../images/Mezquita_de_al-Monastir_Haram.jpg" alt="Foto 8")
-                        img(src="../images/plaza-constitucion-almonaster-la-real.jpg" alt="Foto 9")
+                  .carrusel
+                    - var images = [
+                    - { src: "images/Almonaster-la-real-1-1", alt: "Foto 1", class: "active" },
+                    - { src: "images/iglesia-san-martin-almonaster-la-real", alt: "Foto 2" },
+                    - { src: "images/fuente_de_concejo", alt: "Foto 3" },
+                    - { src: "images/index_background_v1", alt: "Foto 4" },
+                    - { src: "images/index_background_v2", alt: "Foto 5" },
+                    - { src: "images/index_background_v3", alt: "Foto 6" },
+                    - { src: "images/mezquita-de-almonaster-la-real", alt: "Foto 7" },
+                    - { src: "images/Mezquita_de_al-Monastir_Haram", alt: "Foto 8" },
+                    - { src: "images/plaza-constitucion-almonaster-la-real", alt: "Foto 9" }
+                    - ]
+
+                    each image, index in images
+                      picture(class=image.class)
+                        source(srcset=`${image.src}.webp` type="image/webp")
+                        img(src=`${image.src}.jpg` alt=image.alt)
                     
                     button.prev &lt;
                     button.next &gt;
 
-                script(src="../js/script.js")
+                script(src="js/script.js")
 
 
     include footer.pug

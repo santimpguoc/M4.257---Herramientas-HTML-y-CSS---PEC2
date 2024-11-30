@@ -4,7 +4,7 @@ html(lang="es")
     meta(charset="UTF-8")
     meta(name="viewport" content="width=device-width, initial-scale=1.0")
     title Almonaster la Real - Año 1234
-    link(rel="stylesheet" href="styles.scss")
+    link(rel="stylesheet" href="css/styles.scss")
   body
     include header.pug
 
@@ -15,7 +15,9 @@ html(lang="es")
             h1 Almonaster la Real en el Año 1234: Fundación y Orígenes
 
             figure
-              img(src="../images/interior-mequita-de-almonaster-la-real.jpg" alt="Mezquita de Almonaster la Real")
+              picture 
+                source(srcset="images/interior-mezquita-de-almonaster-la-real.webp" type="images/webp")
+                img(src="images/interior-mezquita-de-almonaster-la-real.jpg" alt="Mezquita de Almonaster la Real")
               figcaption Vista del interior de la mezquita de Almonaster la Real.
 
             p En el año 1234, durante el avance de la Reconquista, Almonaster la Real fue incorporada al Reino de Castilla. Aunque no se tiene una fecha exacta para su fundación, este período marcó un cambio significativo en la región, ya que pasó del dominio musulmán al control cristiano. El proceso de reconquista liderado por el rey Fernando III de Castilla no solo buscaba recuperar territorios, sino también consolidar el poder cristiano en zonas estratégicas como la Sierra de Huelva. Almonaster, por su ubicación elevada y su fortaleza natural, se convirtió en un importante punto de control militar.
