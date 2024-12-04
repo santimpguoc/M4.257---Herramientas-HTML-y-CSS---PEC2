@@ -28,10 +28,15 @@ html(lang="es")
                     - { src: "images/plaza-constitucion-almonaster-la-real", alt: "Foto 9" }
                     - ]
 
-                    each image, index in images
+                    each image in images
                       picture(class=image.class)
-                        source(srcset=`${image.src}.webp` type="image/webp")
-                        img(src=`${image.src}.jpg` alt=image.alt)
+                        source(srcset=`${image.src}-little.webp` type="image/webp" media="(max-width: 768px)")
+                        source(srcset=`${image.src}.webp` type="image/webp" media="(min-width: 769px)")
+                        img(
+                          src=`${image.src}.jpg`
+                          srcset=`${image.src}-little.jpg 768w`
+                          sizes="(max-width: 768px) 100vw"
+                          alt=image.alt)
                     
                     button.prev &lt;
                     button.next &gt;
