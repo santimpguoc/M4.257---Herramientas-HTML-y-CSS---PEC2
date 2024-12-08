@@ -19,8 +19,13 @@ html(lang="es")
                 p Además de lo comentado, también soy estudiante del Máster Universitario en Desarrollo de Sitios y Aplicaciones Web y del Máster de Ciberseguridad y Privacidad, ambos de la UOC 
               .presentacion-content-mis_datos-imagen
                 picture 
-                  source(srcset="images/Santiago_Martín.webp" type="image/webp") 
-                  img(src="images/Santiago_Martín.jpg" alt="Santiago Martín") 
+                  source(srcset="images/Santiago_Martín-little.webp" type="image/webp" media="(max-width: 768px)") 
+                  source(srcset="images/Santiago_Martín.webp" type="image/webp" media="(min-width: 769px)")
+                  img(
+                    src="images/Santiago_Martín.jpg"
+                    srcset="images/Santiago_Martín-little.jpg 768w"
+                    sizes="(max-width: 768px) 100vw"
+                    alt="Santiago Martín")
           
             h2 Objetivo de este sitio web 
 
