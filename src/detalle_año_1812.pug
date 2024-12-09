@@ -15,9 +15,14 @@ html(lang="es")
             h1 Almonaster la Real en el Año 1812: Guerra de Independencia
 
             figure
-              picture 
-                source(srcset="images/index_background_v1.webp" type="image/webp")
-                img(src="images/index_background_v1.jpg" alt="Vista general de Almonaster la Real")
+              picture
+                source(srcset="images/index_background_v1-little.webp" type="image/webp" media="(max-width: 768px)") 
+                source(srcset="images/index_background_v1.webp" type="image/webp" media="(min-width: 769px)")
+                img(
+                  src="images/index_background_v1.jpg"
+                  srcset="images/index_background_v1-little.jpg 768w"
+                  sizes="(max-width: 768px) 100vw"
+                  alt="Vista general de Almonaster la Real") 
               figcaption Vista general de Almonaster la Real.
 
             p En 1812, durante la Guerra de Independencia Española, la localidad de Almonaster la Real, se vio afectada por los conflictos que asolaban el país. Aunque no fue escenario de grandes batallas, la región jugó un papel estratégico en la resistencia local contra las tropas napoleónicas. Almonaster, con su terreno montañoso y su ubicación apartada, ofrecía un refugio seguro para las partidas de guerrilleros que luchaban por liberar el territorio de la ocupación francesa. La población local, unida por un fuerte sentido de pertenencia y lealtad a la Corona española, participó activamente en la resistencia.

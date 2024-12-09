@@ -18,15 +18,20 @@ html(lang="es")
                 p Mi nombre es Santiago Martín. Ingeniero Técnico Informático, Graduado en Tecnologías de las Telecomunicaciones y de profesión Administrador de Infraestructuras TIC y Profesor en Ciclos Formativos de FP en la rama TIC. 
                 p Además de lo comentado, también soy estudiante del Máster Universitario en Desarrollo de Sitios y Aplicaciones Web y del Máster de Ciberseguridad y Privacidad, ambos de la UOC 
               .presentacion-content-mis_datos-imagen
-                picture 
-                  source(srcset="images/Santiago_Martín-little.webp" type="image/webp" media="(max-width: 768px)") 
-                  source(srcset="images/Santiago_Martín.webp" type="image/webp" media="(min-width: 769px)")
-                  img(
-                    src="images/Santiago_Martín.jpg"
-                    srcset="images/Santiago_Martín-little.jpg 768w"
-                    sizes="(max-width: 768px) 100vw"
-                    alt="Santiago Martín")
-          
+                svg(xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100vw" height="100vw")
+                  defs
+                    mask(id="estrellaMascara")
+                      rect(x="0" y="0" width="100" height="100" fill="black")
+                      rect(x="25" y="25" width="50" height="50" fill="white" transform="rotate(45,50,50)")
+                      rect(x="25" y="25" width="50" height="50" fill="white" transform="rotate(0,50,50)")
+                  image(
+                    href="images/Santiago_Martín.jpg"
+                    x="0"
+                    y="0"
+                    width="100"
+                    height="100"
+                    mask="url(#estrellaMascara)"
+                  )
             h2 Objetivo de este sitio web 
 
             p El objetivo del presente sitio web consiste en ser únicamente un desarrollo demostrativo del uso de herramientas avanzadas para la creación de sitios web usando entornos de desarrollo actuales tales como Parcel y Node.js 

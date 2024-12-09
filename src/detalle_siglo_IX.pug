@@ -16,8 +16,13 @@ html(lang="es")
 
             figure
               picture
-                source(srcset="images/index_background_v3.webp" type="image/webp")
-                img(src="images/index_background_v3.jpg" alt="Mezquita de Almonaster la Real")
+                source(srcset="images/index_background_v3-little.webp" type="image/webp" media="(max-width: 768px)") 
+                source(srcset="images/index_background_v3.webp" type="image/webp" media="(min-width: 769px)")
+                img(
+                  src="images/index_background_v3.jpg"
+                  srcset="images/index_background_v3-little.jpg 768w"
+                  sizes="(max-width: 768px) 100vw"
+                  alt="Mezquita de Almonaster la Real") 
               figcaption Vista del exterior de la mezquita de Almonaster la Real.
 
             p La mezquita de Almonaster la Real, ubicada en la Sierra de Huelva, fue construida entre los años 711 y 929, durante el periodo del Emirato de Córdoba. Este período coincidió con la expansión del dominio musulmán en la península ibérica, cuando se desarrollaron importantes obras arquitectónicas para consolidar el poder islámico. La mezquita de Almonaster, que se construyó sobre una antigua basílica visigoda, refleja la práctica común de reutilizar estructuras preexistentes, adaptándolas a las necesidades religiosas de los nuevos gobernantes. Esta edificación es uno de los pocos ejemplos que se conservan de mezquitas rurales en España.
