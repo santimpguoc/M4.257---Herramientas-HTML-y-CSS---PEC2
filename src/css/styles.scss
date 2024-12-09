@@ -147,63 +147,73 @@ header {
         height: auto;     /* Mantiene la proporción al ajustar el ancho */
         margin-top: -5em;
         margin-bottom: -5em;
+        animation: pulsacion 3s linear infinite;
+      
       }
     }
   }
-    //Estilo para los carruseles de imágenes
 
-    .index-carrusel {
-      position: relative;
-      background: rgba(255, 255, 255, 0.75);
-      border: solid 2px  rgba(0, 0, 0, 0.75);
-      padding: 1rem;
-      margin: 0 0 1rem 0;
-      width: 100%;
-      
-      overflow: hidden;
-      
+  @keyframes pulsacion {
+    0%, 100% {
+      transform: scale(1);
     }
-    
-    .carrusel {
-      display: flex;
-      transition: transform 0.5s ease-in-out;
+    50% {
+      transform: scale(0.8); /* Escala ligeramente hacia afuera */
     }
-    
-    .carrusel img {
-      width: 100%;
-      max-width: 980px;
-      
-      height: auto;
-      display: none;
-    }
-    
-    .carrusel img.active {
-      display: block;
-    }
-    
-    button {
-      position: absolute;
-      top: 50%;
-      transform: translateY(-50%);
-      background-color: rgba(0, 0, 0, 0.5);
-      color: white;
-      border: none;
-      padding: 10px;
-      cursor: pointer;
-    }
-    
-    button.prev {
-      left: 10px;
-    }
-    
-    button.next {
-      right: 10px;
-    }
-    
-    button:hover {
-      background-color: rgba(0, 0, 0, 0.8);
-    }
+  }
 
+
+  //Estilo para los carruseles de imágenes
+
+  .index-carrusel {
+    position: relative;
+    background: rgba(255, 255, 255, 0.75);
+    border: solid 2px  rgba(0, 0, 0, 0.75);
+    padding: 1rem;
+    margin: 0 0 1rem 0;
+    width: 100%;
+    overflow: hidden;
+  }
+    
+  .carrusel {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+    
+  .carrusel img {
+    width: 100%;
+    max-width: 980px;
+     
+    height: auto;
+    display: none;
+  }
+    
+  .carrusel img.active {
+    display: block;
+  }
+    
+  button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+  }
+    
+  button.prev {
+    left: 10px;
+  }
+    
+  button.next {
+    right: 10px;
+  }
+    
+  button:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
 }
 
 // Estilos de el pie de página
