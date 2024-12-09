@@ -148,7 +148,6 @@ header {
         margin-top: -5em;
         margin-bottom: -5em;
         animation: pulsacion 3s linear infinite;
-      
       }
     }
   }
@@ -172,12 +171,31 @@ header {
     padding: 1rem;
     margin: 0 0 1rem 0;
     width: 100%;
+
     overflow: hidden;
+    clip-path: polygon(
+      50% 0%, 
+      66.6% 16.6%, 
+      83.2% 16.6%, 
+      83.2% 33.4%, 
+      100% 50%, 
+      83.2% 66.6%, 
+      83.2% 83.2%, 
+      66.6% 83.2%, 
+      50% 100%, 
+      33.4% 83.2%, 
+      16.6% 83.2%, 
+      16.6% 66.6%, 
+      0% 50%, 
+      16.6% 33.4%, 
+      16.6% 16.6%, 
+      33.4% 16.6%); 
   }
     
   .carrusel {
     display: flex;
     transition: transform 0.5s ease-in-out;
+    padding: 10em;
   }
     
   .carrusel img {
