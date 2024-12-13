@@ -163,15 +163,15 @@ header {
 
 
   //Estilo para los carruseles de imágenes
-
-  .index-carrusel {
+  .index-carrusel{
     position: relative;
     background: rgba(255, 255, 255, 0.75);
     border: solid 2px  rgba(0, 0, 0, 0.75);
     padding: 1rem;
     margin: 0 0 1rem 0;
     width: 100%;
-
+  }
+  .carrusel {
     overflow: hidden;
     clip-path: polygon(
       50% 0%, 
@@ -191,17 +191,14 @@ header {
       16.6% 16.6%, 
       33.4% 16.6%); 
   }
-    
   .carrusel {
     display: flex;
     transition: transform 0.5s ease-in-out;
-    padding: 10em;
   }
     
   .carrusel img {
     width: 100%;
     max-width: 980px;
-     
     height: auto;
     display: none;
   }
@@ -233,6 +230,8 @@ header {
     background-color: rgba(0, 0, 0, 0.8);
   }
 }
+
+
 
 // Estilos de el pie de página
 footer {
@@ -270,6 +269,62 @@ footer {
     margin: 0.5rem 0 0 0;
   }
 }
+
+// Estilos para diseño de imágenes en cuadrícula para páginas de detalle
+.detalle-image-grid {
+  display: grid;
+  grid-template-columns: 1fr 2fr; 
+  grid-template-rows: 1fr 1fr; 
+  grid-template-areas: 
+    "small-image-1 large-image"
+    "small-image-2 large-image";
+  row-gap: 10px;
+  column-gap: 10px;
+  height: 400px;
+  padding-bottom: 1em;
+}
+
+.small-image-1 {
+  grid-area: small-image-1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  img{
+    width: 100% !important;
+    height: 100%;
+  }
+}
+
+.small-image-2 {
+  grid-area: small-image-2; 
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  img{
+    width: 100% !important;
+    height: 100%;
+  }
+}
+
+.large-image {
+  grid-area: large-image;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  img{
+    width: 100% !important;
+    height: 100%;
+  }
+}
+
+figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 5px;
+  color: #555;
+}
+
+
   
 // Estilos para diseño responsive
 @media (max-width: 768px) {
@@ -306,18 +361,27 @@ footer {
     }
 
     figure {
-      margin: 0 0 1rem 0;
+      margin: 0 0 0 0;
       padding: 0rem;
       
     }
     img {
       width: 100%;
-      height: 100%;
+      
     }
     .presentacion-content-mis_datos-texto{
       max-width: 100% !important;
     }
 
+  }
+
+  .detalle-image-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    grid-template-rows: 1fr 1fr; 
+    grid-template-areas: 
+      "small-image-1 small-image-2"
+      "large-image large-image";
   }
 
   footer{

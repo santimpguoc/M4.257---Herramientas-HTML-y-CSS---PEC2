@@ -1,0 +1,17 @@
+La web debe cumplir las reglas básicas WCAG 2.1 
+
+Página de detalle
+
+    Hay que añadir una imagen destacada representativa del contenido que explica la página. La imagen debe quedar correctamente integrada en el diseño, tanto en versiones para dispositivos móviles como en versiones para dispositivos con pantallas más grandes.
+    Además, hay que añadir otras imágenes (como mínimo 2 más sin contar con el header y el footer), a poder ser en diversos formatos (justificados adecuadamente en la documentación de la práctica).
+    La imagen destacada debe incluir gestión de la dirección de arte. Pensad que no solamente hacéis un sitio web, sino que estáis construyendo una parte de vuestro porfolio para enseñar a posibles empleadores. ¡Sed creativos y demostrad qué es lo que sabéis hacer!
+
+    Falta comentar esto en el documento en cada apartado y modificar el código mostrado.
+
+Página de categoría
+
+    La imagen destacada que hemos elegido para la página de detalle debe ser visible también en esta página. Piensa, por ejemplo, en Amazon: al hacer una búsqueda ves la imagen (en pequeño) del producto, y al entrar en el producto, la ves en grande.
+
+Página de enlaces
+
+    Muy importante (en especial de cara a esta entrega): Ten en cuenta el uso de material protegido por derechos de autor, como se especifica en el último apartado de este documento. Recuerda cuáles son los límites y excepciones 
