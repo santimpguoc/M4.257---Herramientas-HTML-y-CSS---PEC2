@@ -270,6 +270,25 @@ footer {
   }
 }
 
+// Estilos para diseño de imágenes zona Eventos Históricos de la página Categoría
+.eventos-historicos {
+  display: flex;
+  column-gap: 2em;
+  margin: 1em;
+}
+
+.eventos-historicos-image {
+  width: 35%;
+
+  max-height: auto;
+  vertical-align: middle;
+  object-fit: cover;
+}
+
+.eventos-historicos-texto {
+  width: 65%;
+}
+
 // Estilos para diseño de imágenes en cuadrícula para páginas de detalle
 .detalle-image-grid {
   display: grid;
@@ -383,6 +402,20 @@ figcaption {
       "small-image-1 small-image-2"
       "large-image large-image";
   }
+
+  .eventos-historicos {
+    display: block;
+    column-gap: 2em;
+    margin: 1em;
+  }
+  
+  .eventos-historicos-image {
+    width: 90%;
+  }
+  
+  .eventos-historicos-texto {
+    width: 90%;
+  } 
 
   footer{
     width: 100%;

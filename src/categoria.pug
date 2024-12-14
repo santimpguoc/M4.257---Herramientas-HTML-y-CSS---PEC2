@@ -53,18 +53,51 @@ html(lang="es")
           p Es un elemento histórico de gran valor cultural, ubicado en pleno casco antiguo de la localidad. Construida en el siglo XVIII, esta fuente pública fue durante siglos un importante punto de encuentro para los habitantes y un recurso esencial para el abastecimiento de agua. Su estructura sencilla, con un amplio abrevadero y pilas de piedra, refleja la arquitectura popular de la época y la función comunitaria que desempeñaba. La Fuente del Concejo se ha mantenido como un símbolo de la vida cotidiana y las tradiciones de Almonaster, y continúa siendo un atractivo turístico que conecta a los visitantes con el pasado histórico de la localidad.
 
           h2 Eventos Históricos
-          ul.eventos
-            li
+
+          div.eventos-historicos
+            div.eventos-historicos-image
+              a(href="detalle_siglo_IX.pug")
+                picture.large-image
+                  source(srcset="images/index_background_v3-little.webp" type="image/webp" media="(max-width: 768px)") 
+                  source(srcset="images/index_background_v3.webp" type="image/webp" media="(min-width: 769px)")
+                  img(
+                    src="images/index_background_v3.jpg"
+                    srcset="images/index_background_v3-little.jpg 768w"
+                    sizes="(max-width: 768px) 100vw"
+                    alt="Mezquita de Almonaster la Real") 
+            div.eventos-historicos-texto 
               p 
                 span.important 
                   a(href="detalle_siglo_IX.pug") Siglo IX - Edificación de la Mezquita:
-                |  La mezquita fortaleza de Almonaster la Real fue construida en el siglo IX, durante el período del Emirato de Córdoba (711-929). Aunque no existe una fecha exacta de su construcción, se estima que fue edificada entre los siglos IX y X. Esta mezquita se construyó sobre una antigua basílica visigoda, lo que refleja la práctica común de aprovechar estructuras anteriores para levantar nuevos edificios..
-            li
+                | La mezquita fortaleza de Almonaster la Real fue construida en el siglo IX, durante el período del Emirato de Córdoba (711-929). Aunque no existe una fecha exacta de su construcción, se estima que fue edificada entre los siglos IX y X. Esta mezquita se construyó sobre una antigua basílica visigoda, lo que refleja la práctica común de aprovechar estructuras anteriores para levantar nuevos edificios..
+          div.eventos-historicos
+            div.eventos-historicos-image
+              a(href="detalle_año_1234.pug")
+                picture.large-image
+                  source(srcset="images/plaza-constitucion-almonaster-la-real-little.webp" type="image/webp" media="(max-width: 768px)") 
+                  source(srcset="images/plaza-constitucion-almonaster-la-real.webp" type="image/webp" media="(min-width: 769px)")
+                  img(
+                    src="images/plaza-constitucion-almonaster-la-real.jpg"
+                    srcset="images/plaza-constitucion-almonaster-la-real-little.jpg 768w"
+                    sizes="(max-width: 768px) 100vw"
+                    alt="Mezquita de Almonaster la Real") 
+            div.eventos-historicos-texto 
               p 
                 span.important 
                   a(href="detalle_año_1234.pug") Año 1234 - Fundación de la localidad:
                 |  El año 1234 marca una época en la que Almonaster la Real pasó a formar parte de la Corona de Castilla, lo que inició un período de transformación cultural y religiosa en la localidad. La adaptación de edificios islámicos para el culto cristiano y el proceso de repoblación caracterizaron este momento histórico, dejando una herencia visible hasta hoy en el patrimonio arquitectónico y cultural de Almonaster.
-            li
+          div.eventos-historicos
+            div.eventos-historicos-image
+              a(href="detalle_año_1812.pug")
+                picture.large-image
+                  source(srcset="images/index_background_v1-little.webp" type="image/webp" media="(max-width: 768px)") 
+                  source(srcset="images/index_background_v1.webp" type="image/webp" media="(min-width: 769px)")
+                  img(
+                    src="images/index_background_v1.jpg"
+                    srcset="images/index_background_v1-little.jpg 768w"
+                    sizes="(max-width: 768px) 100vw"
+                    alt="Mezquita de Almonaster la Real") 
+            div.eventos-historicos-texto 
               p
                 span.important 
                   a(href="detalle_año_1812.pug") Año 1812 - Almonaster en la Guerra de Independencia:
